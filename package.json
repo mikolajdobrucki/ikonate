@@ -1,0 +1,13 @@
+{
+  "name": "ucreate-icons",
+  "version": "0.1.0",
+  "description": "icon set from ucreate",
+  "main": "index.js",
+  "keywords": [
+    "icons",
+    "set",
+    "outline"
+  ],
+  "author": "Mikolaj Dobrucki",
+  "license": "Apache-2.0"
+}
