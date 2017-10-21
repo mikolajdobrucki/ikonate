@@ -8,6 +8,10 @@
     "set",
     "outline"
   ],
-  "author": "Mikolaj Dobrucki",
+  "repository": {
+    "type": "git",
+    "url":  "https://github.com/eucalyptuss/ucreate-icons.git"
+  },
+  "author": "Mikolaj Dobrucki <tease@mikolajdobrucki.com>",
   "license": "Apache-2.0"
 }
