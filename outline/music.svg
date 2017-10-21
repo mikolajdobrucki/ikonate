@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g fill="none" fill-rule="evenodd" stroke="#0E3FF2" stroke-width="2">
+    <polyline stroke-linejoin="round" points="8 18 8 6 20 3 20 16"/>
+    <ellipse cx="5.302" cy="18.739" rx="2.828" ry="1.885" transform="rotate(-20 5.302 18.739)"/>
+    <ellipse cx="17.302" cy="16.739" rx="2.828" ry="1.885" transform="rotate(-20 17.302 16.739)"/>
+  </g>
+</svg>

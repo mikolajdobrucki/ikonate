@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g fill="none" fill-rule="evenodd" stroke="#0E3FF2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M8,4 L8,20"/>
+    <path d="M15,12 C17,11.3333333 18,10 18,8 C18,6 17,4.66666667 15,4 L15,20" transform="matrix(-1 0 0 1 33 0)"/>
+    <path d="M5,4 L5,7 L5,7 C5,8.65685425 6.34314575,10 8,10 L8,10 L8,10 C9.65685425,10 11,8.65685425 11,7 L11,4"/>
+  </g>
+</svg>

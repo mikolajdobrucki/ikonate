@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g fill="none" fill-rule="evenodd" stroke="#0E3FF2" stroke-width="2">
+    <circle cx="12" cy="12" r="4"/>
+    <g stroke-linecap="round" stroke-linejoin="round" transform="translate(11 2)">
+      <path d="M1 2L1 0M1 20L1 18"/>
+    </g>
+    <g stroke-linecap="round" stroke-linejoin="round" transform="rotate(-90 7.5 5.5)">
+      <path d="M1 3L1 0M1 20L1 17"/>
+    </g>
+    <g stroke-linecap="round" stroke-linejoin="round" transform="rotate(45 4.086 24.278)">
+      <path d="M1 3L1 0M1 20L1 17"/>
+    </g>
+    <g stroke-linecap="round" stroke-linejoin="round" transform="rotate(135 6.086 13.278)">
+      <path d="M1 3L1 0M1 20L1 17"/>
+    </g>
+  </g>
+</svg>
