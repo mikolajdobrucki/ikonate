@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g fill="none" fill-rule="evenodd" stroke="#0E3FF2" stroke-linecap="round" stroke-width="2" transform="rotate(-180 12 12)">
-    <path d="M12,3 L12,20"/>
-    <polyline points="6 15 12 21 18 15"/>
-  </g>
-</svg>

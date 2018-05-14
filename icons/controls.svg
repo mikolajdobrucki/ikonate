@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+ <g fill="none" fill-rule="evenodd">
+  <g transform="rotate(90 6 12)">
+   <path d="M0 1L12 1M0 6L12 6M0 11L12 11"/>
+  </g>
+  <path d="M5 8L9 8M10 16L14 16M15 12L19 12"/>
+ </g>
+</svg>
