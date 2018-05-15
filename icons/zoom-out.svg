@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+
+    <g  transform="matrix(-1 0 0 1 24 0)">
+      <path d="M14.4121122,14.4121122 L20,20"/>
+      <circle cx="10" cy="10" r="6"/>
+  
+    <path  d="M6.66666667,5 L1.33333333,5" transform="translate(10 5)"/>
+
+</svg>

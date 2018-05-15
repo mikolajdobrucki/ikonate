@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g fill="none" fill-rule="evenodd" stroke-linejoin="round">
+    <path  d="M22,11 C22,6.02943725 17.5228475,2 12,2 C6.4771525,2 2,6.02943725 2,11 C7,11 15,11 22,11 Z"/>
+    <path  d="M17,22 C17,17.4444444 17,14.6111111 17,13.5 C17,12.1192881 15.8807119,11 14.5,11 C13.1192881,11 12,12.1192881 12,13.5" transform="rotate(-180 14.5 16.5)"/>
+
+</svg>

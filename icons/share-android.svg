@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+
+    <path  d="M16,11 L8,8" transform="matrix(1 0 0 -1 0 19)"/>
+    <path  d="M16,13 L8,16" transform="matrix(1 0 0 -1 0 29)"/>
+    <circle cx="6" cy="12" r="2" />
+    <circle cx="18" cy="7" r="2" />
+    <circle cx="18" cy="17" r="2" />
+
+</svg>

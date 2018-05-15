@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+
+    <path  d="M6,8 L17,8 C18.1045695,8 19,8.8954305 19,10 L19,13" transform="matrix(1 0 0 -1 0 21)"/>
+    <polyline  points="8 16 5 13 8 10"/>
+
+</svg>
