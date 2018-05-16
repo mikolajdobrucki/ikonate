@@ -6,7 +6,7 @@ const JSDOM = jsdom.JSDOM;
 fs.readdir('./icons', (err, files) => {
   let result = files.map((item) => {
     return `
-      <div class="container__grid-item">const
+      <div class="container__grid-item">
         <svg class="customicons">
           <use xlink:href="../sprite/${item}#anchor"/>
         </svg>
