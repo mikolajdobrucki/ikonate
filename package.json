@@ -16,7 +16,7 @@
     "sprite:dir": "node scripts/spritesDir.js",
     "sprite:generate": "svg-sprite-generate -d ./icons -o ./sprite/customicons.svg",
     "demo": "node scripts/generateHTML.js",
-    "build": "run-s demo sprite:*"
+    "build": "run-s demo sprite:**"
   },
   "author": "Mikolaj Dobrucki <tease@mikolajdobrucki.com>",
   "license": "MIT",

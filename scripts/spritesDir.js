@@ -1,3 +1,7 @@
 const fs = require('fs');
 
-fs.mkdir('sprite');
+fs.access('sprite', fs.constants.F_OK, (err) => {
+  if (err) {
+    fs.mkdir('sprite');
+  }
+});
