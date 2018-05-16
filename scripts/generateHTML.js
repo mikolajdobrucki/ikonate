@@ -8,7 +8,7 @@ fs.readdir('./icons', (err, files) => {
     return `
       <div class="container__grid-item">
         <svg class="customicons">
-          <use xlink:href="../sprite/${item}#anchor"/>
+          <use xlink:href="../sprite/customicons.svg#${item.replace('.svg','')}"/>
         </svg>
       </div>`;
   });
