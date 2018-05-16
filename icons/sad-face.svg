@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+
+    <circle cx="9" cy="9" r="1" fill="#0E3FF2"/>
+    <circle cx="15" cy="9" r="1" fill="#0E3FF2"/>
+    <path  d="M8,15 C9.33333333,15.6666667 10.6656028,15.9996178 11.9968085,15.9988534 C13.3322695,15.9996178 14.6666667,15.6666667 16,15" opacity=".9" transform="matrix(1 0 0 -1 0 31)"/>
+    <circle cx="12" cy="12" r="10" />
+
+</svg>

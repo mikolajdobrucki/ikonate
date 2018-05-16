@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+
+    <path stroke-linejoin="round"  d="M15,5 L15,19 C15,19.5522847 14.5522847,20 14,20 L5,20 C4.44771525,20 4,19.5522847 4,19 L4,5 C4,4.44771525 4.44771525,4 5,4 L14,4 C14.5522847,4 15,4.44771525 15,5 Z"/>
+    <g  transform="rotate(-90 14.5 3.5)">
+      <path d="M6,1.5 L6,10.5"/>
+      <polyline points="3 7.5 6 10.5 9 7.5"/>
+  
+
+</svg>

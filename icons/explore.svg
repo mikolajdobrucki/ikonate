@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+
+    <g  transform="translate(4 4)">
+      <polygon stroke-linejoin="round" points="8 11 15 8 8 5 1 8" transform="rotate(-45 8 8)"/>
+      <path/>
+  
+    <circle cx="12" cy="12" r="10" />
+
+</svg>
