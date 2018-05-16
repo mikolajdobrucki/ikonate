@@ -13,9 +13,10 @@
     "url": "https://github.com/eucalyptuss/customicons.git"
   },
   "scripts": {
-    "sprites": "svg-sprite-generate -d ./icons -o ./sprite/customicons.svg",
+    "sprite:dir": "node scripts/spritesDir.js",
+    "sprite:generate": "svg-sprite-generate -d ./icons -o ./sprite/customicons.svg",
     "demo": "node scripts/generateHTML.js",
-    "build": "run-s demo sprites"
+    "build": "run-s demo sprite:*"
   },
   "author": "Mikolaj Dobrucki <tease@mikolajdobrucki.com>",
   "license": "MIT",
