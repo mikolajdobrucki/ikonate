@@ -1,8 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-
-    <circle cx="9" cy="9" r="1" fill="#0E3FF2"/>
-    <circle cx="15" cy="9" r="1" fill="#0E3FF2"/>
-    <path  d="M8,15 L16,15" opacity=".9" transform="matrix(1 0 0 -1 0 30)"/>
-    <circle cx="12" cy="12" r="10" />
-
+    <line x1="9" y1="9" x2="9" y2="9"></line>
+    <line x1="15" y1="9" x2="15" y2="9"></line>
+    <path d="M16,15 L8,15" opacity=".9"/>
+    <circle cx="12" cy="12" r="10"/>
 </svg>

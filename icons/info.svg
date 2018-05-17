@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-
-    <path  d="M12,12 L12,15" transform="rotate(-180 12 13.5)"/>
-    <circle cx="12" cy="9" r="1" fill="#0E3FF2" transform="rotate(-180 12 9)"/>
+    <path  d="M12,12 L12,15"/>
+    <line x1="12" y1="9" x2="12" y2="9"></line>
     <circle cx="12" cy="12" r="10" />
-
 </svg>
