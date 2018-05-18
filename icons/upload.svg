@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-
-    <path  d="M12,4 L12,17" transform="matrix(1 0 0 -1 0 21)"/>
-    <polyline  points="7 3 12 8 17 3" transform="matrix(1 0 0 -1 0 11)"/>
-    <path  d="M20,21 L4,21"/>
-
+    <path d="M12,4 L12,17"/>
+    <polyline points="7 8 12 3 17 8"/>
+    <path d="M20,21 L4,21"/>
 </svg>

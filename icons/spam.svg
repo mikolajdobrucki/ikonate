@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-
-    <polygon stroke-linejoin="round"  points="12.251 2.154 18.784 4.86 21.846 12.251 19.14 18.784 11.749 21.846 5.216 19.14 2.154 11.749 4.86 5.216" transform="rotate(22.5 12 12)"/>
-    <path  d="M12,8 L12,13"/>
-    <circle cx="12" cy="16" r="1" fill="#0E3FF2"/>
-
+    <polygon points="16 3 21 8 21 16 16 21 8 21 3 16 3 8 8 3"/>
+    <path d="M12,8 L12,13"/>
+    <line x1="12" y1="16" x2="12" y2="16"></line>
 </svg>
