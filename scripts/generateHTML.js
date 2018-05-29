@@ -5,7 +5,7 @@ const JSDOM = jsdom.JSDOM;
 const baseHTML = `
 <html lang="en" dir="ltr"><head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Custom Icons</title>
   <style>
     :root {
       /* Colour Palette */
