@@ -33,7 +33,7 @@ const baseHTML = `
       border-radius: var(--border-radius);
       padding: 20px;
     }
-    .customicons {
+    .custom-icons {
       width: 24px;
       height: 24px;
       stroke: currentColor;
@@ -54,8 +54,8 @@ fs.readdir('./icons', (err, files) => {
   let result = files.map((item) => {
     return `
       <div class="container__grid-item">
-        <svg class="customicons">
-          <use xlink:href="../sprite/customicons.svg#${item.replace('.svg','')}"/>
+        <svg class="custom-icons">
+          <use xlink:href="../sprite/custom-icons.svg#${item.replace('.svg','')}"/>
         </svg>
       </div>`;
   });
