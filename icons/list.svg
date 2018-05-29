@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <path  d="M10 7L18 7M10 12L18 12M10 17L18 17"/>
+    <line x1="7" y1="7" x2="7" y2="7"></line>
+    <line x1="7" y1="12" x2="7" y2="12"></line>
+    <line x1="7" y1="17" x2="7" y2="17"></line>
+</svg>

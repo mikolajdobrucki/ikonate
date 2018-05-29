@@ -1,17 +1,28 @@
 {
-  "name": "ucreate-icons",
-  "version": "0.2.0",
-  "description": "icon set from ucreate",
-  "main": "index.js",
+  "name": "customicons",
+  "version": "0.1.0",
+  "description": "fully customisable svg icons",
   "keywords": [
     "icons",
     "set",
-    "outline"
+    "outline",
+    "customisable"
   ],
   "repository": {
     "type": "git",
-    "url":  "https://github.com/eucalyptuss/ucreate-icons.git"
+    "url": "https://github.com/eucalyptuss/customicons.git"
+  },
+  "scripts": {
+    "sprite:dir": "node scripts/spritesDir.js",
+    "sprite:generate": "svg-sprite-generate -d ./icons -o ./sprite/custom-icons.svg",
+    "demo": "node scripts/generateHTML.js",
+    "build": "run-s demo sprite:**"
   },
   "author": "Mikolaj Dobrucki <tease@mikolajdobrucki.com>",
-  "license": "Apache-2.0"
+  "license": "MIT",
+  "devDependencies": {
+    "jsdom": "11.10.0",
+    "npm-run-all": "^4.1.3",
+    "svg-sprite-generator": "0.0.7"
+  }
 }
