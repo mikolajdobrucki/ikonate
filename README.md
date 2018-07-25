@@ -53,11 +53,11 @@ Import the icons you need using a technique appropriate for your project from `.
 
 Reference: [CSS Tricks: SVG `use` with External Reference](https://css-tricks.com/svg-use-with-external-reference-take-2/)
 
-If you successfully [run the build command](https://github.com/eucalyptuss/custom-icons/blob/master/README#Build) you will find the SVG sprite in `./custom-icons/sprite`.
+After running [the build command](https://github.com/eucalyptuss/custom-icons/blob/master/README#Build) successfully, you will find the SVG sprite in `./custom-icons/sprite`.
 
 
 
-If you'd like to learn more about different ways of using SVG in your project please take a look at the following articles:
+If you'd like to learn more about different ways of using SVG in your project, check out the following articles:
 * [A Practical Guide by svgontheweb.com](https://svgontheweb.com/#implementation)
 * [Using SVG Tutorial by CSS-Tricks](https://css-tricks.com/using-svg/)
 
@@ -83,6 +83,8 @@ stroke-width: 2;
 stroke-linecap: round;
 stroke-linejoin: round;
 ```
+
+Check the demo files located in `./custom-icons/demo` for a representative example. 
 
 ## License
 
