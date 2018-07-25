@@ -63,6 +63,10 @@ fs.readdir('./icons', (err, files) => {
   const element = dom.window.document.getElementsByClassName('container')[0];
   element.innerHTML = result.join('');
   fs.mkdir('demo', () => {
-    fs.writeFile('demo/index.html', `<!DOCTYPE html>` + dom.window.document.documentElement.outerHTML)
+    fs.writeFile('demo/index.html', `<!DOCTYPE html>` + dom.window.document.documentElement.outerHTML, (err) => {
+      if (err) {
+        console.log(err);
+      }
+    })
   });
 });
