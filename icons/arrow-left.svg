@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-    <path d="M3,12 L21,12"/>
-    <polyline points="9 18 3 12 9 6 9 6"/>
+    <path d="M9 6l-6 6 6 6"/>
+    <path d="M21 12H4"/>
+    <path stroke-linecap="round" d="M3 12h1"/>
 </svg>
