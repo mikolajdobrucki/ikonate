@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
     <path d="M20,9 L20,19 C20,19.5522847 19.5522847,20 19,20 L5,20 C4.44771525,20 4,19.5522847 4,19 L4,9 C4,8.44771525 4.44771525,8 5,8 L19,8 C19.5522847,8 20,8.44771525 20,9 Z"/>
     <polyline points="8 4 12 7.917 16 4"/>
 </svg>
