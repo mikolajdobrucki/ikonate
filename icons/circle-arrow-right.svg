@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g fill="none" fill-rule="evenodd">
-    <path d="M7.5,12 L16.5,12"/>
-    <polyline points="13.5 9 16.5 12 13.5 15"/>
-    <path d="M2,12 C2,6.4771525 6.4771525,2 12,2 C17.5228475,2 22,6.4771525 22,12 C22,17.5228475 17.5228475,22 12,22 C6.4771525,22 2,17.5228475 2,12 Z"/>
-  </g>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <path d="M13.5 15l3-3-3-3"/>
+    <path d="M7.5 12H16"/>
+    <path stroke-linecap="round" d="M16.5 12H16"/>
+    <circle cx="12" cy="12" r="10"/>
 </svg>

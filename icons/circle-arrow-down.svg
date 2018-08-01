@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-    <path d="M12,7.5 L12,16.5"/>
-    <polyline points="15 13.5 12 16.5 9 13.5"/>
-    <path d="M12,2 C17.5228475,2 22,6.4771525 22,12 C22,17.5228475 17.5228475,22 12,22 C6.4771525,22 2,17.5228475 2,12 C2,6.4771525 6.4771525,2 12,2 Z"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <path d="M9 13.5l3 3 3-3"/>
+    <path d="M12 7.5V16"/>
+    <path stroke-linecap="round" d="M12 16.5V16"/>
+    <circle cx="12" cy="12" r="10"/>
 </svg>
