@@ -3,42 +3,38 @@ const pretty = require("pretty");
 const jsdom = require("jsdom");
 const JSDOM = jsdom.JSDOM;
 
-//node -e 'require("./scripts/generateHTML")'
 
-module.exports = (mode) => {
-    mode = process.argv[1] || mode || "inline"
+module.exports = (params) => {
+    const options = params || getOptions(process.argv) || "inline"
 
     const DOM = new JSDOM(fs.readFileSync("IndexTemplate.html").toString("utf-8"));
     const Document = DOM.window.document;
 
-    const files = fs.readdirSync("./icons")
+    const iconsToRender = options.icons || fs.readdirSync("./icons")
 
-    switch (mode) {
-        case 'inline':
-            console.log("Generating INLINE demo")
-            generateInline(files, Document)
-        break;
-        case 'sprite':
-            console.log("Generating SPRITESHEETS demo")
-            generateSprite(files, Document)
-        break;
-    }
+    if(options.inline)
+        generateInline(iconsToRender, Document)
+    if(options.sprite)
+        generateSprite(iconsToRender, Document)
 
     const DOMstring = pretty(DOM.serialize())
 
-    fs.mkdir("demo", () => {
-        fs.writeFile("demo/index.html", DOMstring, err => {
-            if (err) {
-                console.log(err);
-            }
+    if(options.save){
+        fs.mkdir("demo", () => {
+            fs.writeFile("demo/index.html", DOMstring, err => {
+                if (err) {
+                    console.log(err);
+                }
+            });
         });
-    });
+    }
 
     return DOMstring
 }
 
 
 function generateInline(files, Document){
+        console.log("Generating INLINE demo")
         // <div class="container__grid-item">
         //     <svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="alignCenterIconTitle alignCenterIconDesc">
         //         <title id="alignCenterIconTitle">Align Center</title>
@@ -62,6 +58,8 @@ function generateInline(files, Document){
 
 
 function generateSprite(files, Document){
+        console.log("Generating SPRITESHEETS demo")
+
         // <div class="container__grid-item">
         //     <svg class="custom-icons">
         //       <use xlink:href="../sprite/custom-icons.svg#activity"></use>
@@ -70,7 +68,8 @@ function generateSprite(files, Document){
 
         files.map(item => {
             const div = Document.createElement("div");
-            div.classList.add("container__grid-item");
+            div.
+            classList.add("container__grid-item");
 
             const svg = Document.createElement("svg");
             svg.classList.add("custom-icons");
@@ -82,4 +81,15 @@ function generateSprite(files, Document){
             div.appendChild(svg);
             Document.getElementsByClassName("container")["0"].appendChild(div);
         });
+}
+
+
+function getOptions(args){
+    const obj = {}
+
+    args.forEach(i => {
+        obj[i] = true;
+    })
+
+    return obj
 }
