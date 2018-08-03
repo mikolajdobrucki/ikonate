@@ -15,7 +15,7 @@
   "scripts": {
     "sprite:dir": "node scripts/spritesDir.js",
     "sprite:generate": "svg-sprite-generate -d ./icons -o ./sprite/custom-icons.svg",
-    "demo": "node scripts/generateHTML.js",
+    "demo": "node -e \"require('./scripts/generateHTML')()\"",
     "build": "run-s demo sprite:**"
   },
   "author": "Mikolaj Dobrucki <tease@mikolajdobrucki.com>",
