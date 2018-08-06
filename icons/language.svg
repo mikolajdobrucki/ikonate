@@ -1,5 +1,7 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="languageIconTitle languageIconDesc">
+    <title id="languageIconTitle">Language</title>
+    <desc id="languageIconDesc">Icon of a globe</desc>
     <circle cx="12" cy="12" r="10" />
-    <path  d="M12,21 C14.6666667,18.8181818 16,15.8181818 16,12 C16,8.18181818 14.6666667,5.18181818 12,3 C9.33333333,5.18181818 8,8.18181818 8,12 C8,15.8181818 9.33333333,18.8181818 12,21 Z"/>
-    <path  d="M2.5 9L21.5 9M2.5 15L21.5 15"/>
+    <path  stroke-linecap="round" d="M12,21 C14.6666667,18.8181818 16,15.8181818 16,12 C16,8.18181818 14.6666667,5.18181818 12,3 C9.33333333,5.18181818 8,8.18181818 8,12 C8,15.8181818 9.33333333,18.8181818 12,21 Z"/>
+    <path  stroke-linecap="round" d="M2.5 9L21.5 9M2.5 15L21.5 15"/>
 </svg>

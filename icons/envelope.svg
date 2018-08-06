@@ -1,5 +1,8 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <rect width="20" height="14" x="2" y="5" rx="2"/>
-  <polyline points="3 6 12 14 21 6"/>
-  <path d="M3 18L9 11M21 18L15 11 21 18z"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="envelopeIconTitle envelopeIconDesc">
+    <title id="envelopeIconTitle">Envelope</title>
+    <desc id="envelopeIconDesc">Icon of an paper envelope</desc>
+    <rect width="20" height="14" x="2" y="5"/>
+    <path stroke-linecap="round" d="M2 5l10 9 10-9"/>
+    <path stroke-linecap="round" d="M2 19l6.825-7.8"/>
+    <path stroke-linecap="round" d="M22 19l-6.844-7.822"/>
 </svg>

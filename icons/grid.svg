@@ -1,3 +1,8 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-    <path d="M4 3L9 3C9.55228475 3 10 3.44771525 10 4L10 9C10 9.55228475 9.55228475 10 9 10L4 10C3.44771525 10 3 9.55228475 3 9L3 4C3 3.44771525 3.44771525 3 4 3zM15 3L20 3C20.5522847 3 21 3.44771525 21 4L21 9C21 9.55228475 20.5522847 10 20 10L15 10C14.4477153 10 14 9.55228475 14 9L14 4C14 3.44771525 14.4477153 3 15 3zM4 14L9 14C9.55228475 14 10 14.4477153 10 15L10 20C10 20.5522847 9.55228475 21 9 21L4 21C3.44771525 21 3 20.5522847 3 20L3 15C3 14.4477153 3.44771525 14 4 14zM15 14L20 14C20.5522847 14 21 14.4477153 21 15L21 20C21 20.5522847 20.5522847 21 20 21L15 21C14.4477153 21 14 20.5522847 14 20L14 15C14 14.4477153 14.4477153 14 15 14z"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="gridLargeIconTitle gridLargeIconDesc">
+    <title id="gridLargeIconTitle">Large Grid</title>
+    <desc id="gridLargeIconDesc">Icon of a large 2-by-2 grid</desc>
+    <rect width="7" height="7" x="3" y="3"/>
+    <rect width="7" height="7" x="14" y="3"/>
+    <rect width="7" height="7" x="3" y="14"/>
+    <rect width="7" height="7" x="14" y="14"/>
 </svg>

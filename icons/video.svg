@@ -1,4 +1,6 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-    <path d="M15.6432027,12.8479983 L10.5299989,16.0437507 C10.0616624,16.336461 9.44471203,16.1940878 9.1520017,15.7257513 C9.05266944,15.5668197 9,15.3831721 9,15.1957524 L9,8.80424764 C9,8.25196289 9.44771525,7.80424764 10,7.80424764 C10.1874197,7.80424764 10.3710673,7.85691709 10.5299989,7.95624934 L15.6432027,11.1520017 C16.1115392,11.444712 16.2539124,12.0616624 15.9612021,12.5299989 C15.8807214,12.6587681 15.7719718,12.7675176 15.6432027,12.8479983 Z"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="videoIconTitle videoIconDesc">
+    <title id="videoIconTitle">Video</title>
+    <desc id="videoIconDesc">Icon of a play icon closed in a circle</desc>
+    <polygon points="18 12 9 16.9 9 7"/>
     <circle cx="12" cy="12" r="10"/>
 </svg>

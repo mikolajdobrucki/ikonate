@@ -1,5 +1,8 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-    <path  d="M14 12C13.4030463 11.3333333 12.7363797 11 12 11 11.2636203 11 10.5969537 11.3333333 10 12M21 12L22 12M2 12L3 12"/>
-    <circle cx="7" cy="12" r="3" />
-    <circle cx="17" cy="12" r="3" />
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="glassesIconTitle glassesIconDesc">
+    <title id="glassesIconTitle">Glasses</title>
+    <desc id="glassesIconDesc">Icon of a pair of circular glasses</desc>
+    <path stroke-linecap="round" d="M14 12c-.597-.667-1.264-1-2-1s-1.403.333-2 1"/>
+    <path d="M20 12h2M2 12h2"/>
+    <circle cx="7" cy="12" r="3"/>
+    <circle cx="17" cy="12" r="3"/>
 </svg>

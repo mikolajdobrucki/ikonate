@@ -1,4 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-    <path  d="M5 5L5 20M5 6C6.16666667 4.66666667 7.625 4 9.375 4 12 4 14 6 16 6 17.3333333 6 18.3333333 5.66666667 19 5"/>
-    <path  d="M5,15 C6.16666667,13.6666667 7.625,13 9.375,13 C12,13 14,15 16,15 C17.3333333,15 18.3333333,14.6666667 19,14 L19,5"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="flagIconTitle flagIconDesc">
+    <title id="flagIconTitle">Flag</title>
+    <desc id="flagIconDesc">Icon of a waving flag</desc>
+    <path  d="M5 20v-5c1.333-1.333 3-2 5-2 3 0 4 2 6 2 1 0 2-.333 3-1V5c-1 .667-2 1-3 1-2 0-3-2-6-2-2 0-3.667.667-5 2v9"/>
 </svg>

@@ -1,6 +1,8 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-    <path d="M13.5 15l3-3-3-3"/>
-    <path d="M7.5 12H16"/>
-    <path stroke-linecap="round" d="M16.5 12H16"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="circleArrowRightIconTitle circleArrowRightIconDesc">
+    <title id="circleArrowRightIconTitle">Arrow Right</title>
+    <desc id="circleArrowRightIconDesc">Icon of an arrow poiting right closed in a circle</desc>
+    <path d="M13.5 9l3 3-3 3"/>
+    <path d="M7.5 12H15"/>
+    <path stroke-linecap="round" d="M16.5 12H15"/>
     <circle cx="12" cy="12" r="10"/>
 </svg>

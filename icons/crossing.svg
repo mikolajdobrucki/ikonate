@@ -1,4 +1,6 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="crossingIconTitle crossingIconDesc">
+    <title id="crossingIconTitle">Crossing</title>
+    <desc id="crossingIconDesc">Icon of two diagonal arrows pointing in opposite directions</desc>
     <path d="M5.71493213,20.3875 L14.4522468,9.49688591 C15.2114337,8.55059839 16.3590621,8 17.57225,8 L21,8"/>
     <polyline points="19 5 22 8 19 11 19 11"/>
     <path d="M3,8 L6.42775003,8 C7.64093793,8 8.78856629,8.55059839 9.54775322,9.49688591 L18.2850679,20.3875"/>

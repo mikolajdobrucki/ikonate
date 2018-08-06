@@ -1,4 +1,7 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-    <polyline points="21 10 21 15 16 15 16 15"/>
-    <path d="M3,14.0706362 C6.42531255,9.16868927 14,8.49445328 19,13.1412724 L21,15"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="redoIconTitle redoIconDesc">
+    <title id="redoIconTitle">Redo last undone action</title>
+    <desc id="redoIconDesc">Icon of an arc arrow pointing right</desc>
+    <path d="M16 15h5v-5"/>
+    <path d="M19 13C14 8 6.425 8.725 3 14"/>
+    <path stroke-linecap="round" d="M21 15l-2-2"/>
 </svg>

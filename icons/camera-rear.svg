@@ -1,9 +1,9 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-    <path d="M17.833 13l-1.75 1.75-1.75-1.75"/>
-    <path d="M6.167 13l1.75-1.75L9.667 13"/>
-    <path d="M16.093 14.167V13.03a4.113 4.113 0 0 0-6.426-3.401"/>
-    <path d="M14.343 16.41a4.113 4.113 0 0 1-6.426-3.401v-1.176"/>
-    <path stroke-linecap="round" d="M7.916 11.833v-.583"/>
-    <path stroke-linecap="round" d="M16.083 14.75v-.583"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="cameraRearIconTitle cameraRearIconDesc">
+    <title id="cameraRearIconTitle">Switch the Cameras</title>
+    <desc id="cameraRearIconDesc">Icon of a camera with a rotate sign inside</desc>
+    <path d="M6 12l2-2 2 2"/>
+    <path d="M8 13a4 4 0 0 0 4 4m4-4a4 4 0 0 0-4-4"/>
+    <path stroke-linecap="butt" d="M8 12v1m0-3v3m8 0v3"/>
+    <path d="M18 14l-2 2-2-2"/>
     <path d="M8 7l.74-1.11A2 2 0 0 1 10.404 5h3.192a2 2 0 0 1 1.664.89L16 7h5v13H3V7h5z"/>
 </svg>

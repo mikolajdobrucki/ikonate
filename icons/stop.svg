@@ -1,3 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <rect width="14" height="14" x="5" y="5" stroke-linejoin="round"  rx="1" transform="rotate(90 12 12)"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="stopIconTitle stopIconDesc">
+  <title id="stopIconTitle">Stop</title>
+  <desc id="stopIconDesc">Stop the currently playing track</desc>
+  <rect width="14" height="14" x="5" y="5"/>
 </svg>

@@ -1,5 +1,10 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-    <polyline points="22 12 19 15 16 12"/>
-    <polyline points="2 12 5 9 8 12"/>
-    <path d="M19 15L19.015858 12.0504137C19.015858 8.15657774 15.8592802 5 11.9654442 5 10.4950801 5 9.12984302 5.45010202 8 6.22003889M16.015858 17.8447787C14.8860149 18.6147156 13.5207778 19.0648176 12.0504137 19.0648176 8.15657774 19.0648176 5 15.9082399 5 12.0144039L5 9"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="rotateIconTitle rotateIconDesc">
+    <title id="rotateIconTitle">Rotate</title>
+    <desc id="rotateIconDesc">Icon of two arrows making a circle</desc>
+    <path d="M22 12l-3 3-3-3"/>
+    <path d="M2 12l3-3 3 3"/>
+    <path d="M19.016 14v-1.95A7.05 7.05 0 0 0 8 6.22"/>
+    <path d="M16.016 17.845A7.05 7.05 0 0 1 5 12.015V10"/>
+    <path stroke-linecap="round" d="M5 10V9"/>
+    <path stroke-linecap="round" d="M19 15v-1"/>
 </svg>

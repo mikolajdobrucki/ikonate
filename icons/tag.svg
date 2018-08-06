@@ -1,3 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <path  d="M7.70710678,17.7071068 L2,12 L7.70710678,6.29289322 C7.89464316,6.10535684 8.14899707,6 8.41421356,6 L20,6 C21.1045695,6 22,6.8954305 22,8 L22,16 C22,17.1045695 21.1045695,18 20,18 L8.41421356,18 C8.14899707,18 7.89464316,17.8946432 7.70710678,17.7071068 Z"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="tagIconTitle tagIconDesc">
+    <title id="tagIconTitle">Tag</title>
+    <desc id="tagIconDesc">Icon of a paper tag</desc>
+    <path  d="M8 18l-6-6 6-6h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H8z"/>
 </svg>

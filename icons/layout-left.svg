@@ -1,3 +1,6 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-    <path d="M21 4L21 20C21 20.5522847 20.5522847 21 20 21L4 21C3.44771525 21 3 20.5522847 3 20L3 4C3 3.44771525 3.44771525 3 4 3L20 3C20.5522847 3 21 3.44771525 21 4zM3 8L21 8M9 8L9 21"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="layoutLeftIconTitle layoutLeftIconDesc">
+    <title id="layoutLeftIconTitle">Layout Left</title>
+    <desc id="layoutLeftIconDesc">Icon of a user interface layout with content area on the right and sidebar on the left</desc>
+    <rect width="18" height="18" x="3" y="3"/>
+    <path d="M3 8L21 8M9 8L9 21"/>
 </svg>
