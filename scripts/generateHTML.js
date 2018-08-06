@@ -7,7 +7,7 @@ const JSDOM = jsdom.JSDOM;
 module.exports = (params) => {
     const options = params || getOptions(process.argv) || "inline"
 
-    const DOM = new JSDOM(fs.readFileSync("IndexTemplate.html").toString("utf-8"));
+    const DOM = new JSDOM(fs.readFileSync("./templates/index-template.html").toString("utf-8"));
     const Document = DOM.window.document;
 
     const iconsToRender = options.icons || fs.readdirSync("./icons")
