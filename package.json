@@ -14,7 +14,8 @@
   },
   "scripts": {
     "sprite:dir": "node scripts/spritesDir.js",
-    "sprite:generate": "svg-sprite-generate -d ./icons -o ./sprite/custom-icons.svg",
+    "svgSpriteGenerate": "svg-sprite-generate -d ./icons -o ./sprite/custom-icons.svg",
+    "sprite:generate": "node -e \"require('./scripts/createSvgSpritesheet.js')()\"",
     "demo": "node -e \"require('./scripts/generateHTML')()\"",
     "build": "run-s demo sprite:**"
   },
