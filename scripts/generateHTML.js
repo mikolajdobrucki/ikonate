@@ -34,14 +34,15 @@ module.exports = (params) => {
 
 
 function generateInline(icons, Document){
-    console.log("Generating INLINE demo")
     // <div class="container__grid-item">
-    //     <svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="alignCenterIconTitle alignCenterIconDesc">
-    //         <title id="alignCenterIconTitle">Align Center</title>
-    //         <desc id="alignCenterIconDesc">Icon of four horizontal lines representing central alignment of text</desc>
-    //         <path d="M8 10L16 10M6 6L18 6M6 14L18 14M8 18L16 18" />
-    //     </svg>
-    // </div>;
+    //   <svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="lockAltOpenIconTitle lockAltOpenIconDesc">
+    //     <title id="lockAltOpenIconTitle">Lock</title>
+    //     <desc id="lockAltOpenIconDesc">Icon of an opened lock</desc>
+    //     <path d="M7,7.625 L7,7 C7,4.23857625 9.23857625,2 12,2 L12,2 C14.7614237,2 17,4.23857625 17,7 L17,11"></path>
+    //     <rect width="14" height="10" x="5" y="11"></rect>
+    //     <circle cx="12" cy="16" r="1"></circle>
+    //   </svg>
+    // </div>
 
     icons.map(item => {
         const svgFile = new JSDOM(
@@ -58,12 +59,12 @@ function generateInline(icons, Document){
 
 
 function generateSprite(icons, Document){
-    console.log("Generating SPRITESHEETS demo")
-
     // <div class="container__grid-item">
-    //     <svg class="custom-icons">
-    //       <use xlink:href="../sprite/custom-icons.svg#activity"></use>
-    //     </svg>
+    //   <svg class="custom-icons">
+    //     <title id="lockAltOpenIconTitle">Lock</title>
+    //     <desc id="lockAltOpenIconDesc">Icon of an opened lock</desc>
+    //     <use xlink:href="./custom-icons.svg#lock-alt-open"></use>
+    //   </svg>
     // </div>
 
     icons.map(item => {
