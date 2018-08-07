@@ -5,7 +5,7 @@ const JSDOM = jsdom.JSDOM;
 
 
 module.exports = (params) => {
-    const options = params || getOptions(process.argv) || "inline"
+    const options = params || getOptions(process.argv)
 
     const DOM = new JSDOM(fs.readFileSync("./templates/index-template.html").toString("utf-8"));
     const Document = DOM.window.document;
@@ -67,6 +67,13 @@ function generateSprite(icons, Document){
     // </div>
 
     icons.map(item => {
+        const svgFile = new JSDOM(
+            fs.readFileSync("./icons/" + item).toString("utf-8")
+        ).window.document.getElementsByTagName("svg")["0"];
+
+        const titleTag = svgFile.getElementsByTagName("title")["0"]
+        const descTag = svgFile.getElementsByTagName("desc")["0"]
+
         const div = Document.createElement("div");
         div.classList.add("container__grid-item");
 
@@ -76,6 +83,8 @@ function generateSprite(icons, Document){
         const use = Document.createElement("use");
         use.setAttribute("xlink:href", "../sprite/custom-icons.svg#"+item.replace(".svg", ""))
 
+        svg.appendChild(titleTag);
+        svg.appendChild(descTag);
         svg.appendChild(use);
         div.appendChild(svg);
         Document.getElementsByClassName("container")["0"].appendChild(div);
