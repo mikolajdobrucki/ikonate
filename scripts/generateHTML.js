@@ -49,6 +49,11 @@ function generateInline(icons, Document){
             fs.readFileSync("./icons/" + item).toString("utf-8")
         ).window.document.getElementsByTagName("svg")["0"];
 
+        const keywordsTag = svgFile.getElementsByTagName("keywords")["0"]
+
+        if(keywordsTag)
+            svgFile.removeChild(keywordsTag)
+
         const div = Document.createElement("div");
         div.classList.add("container__grid-item");
 
