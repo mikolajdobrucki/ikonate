@@ -1,5 +1,5 @@
 <svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="backAltIconTitle backAltIconDesc">
-  <title id="backAltIconTitle">Back</title>
-  <desc id="backAltIconDesc">Icon of a </desc>
-  <path d="M4 12l15-9v18z"/>
+    <title id="backAltIconTitle">Back</title>
+    <desc id="backAltIconDesc">Icon of a regular triangle pointing left</desc>
+    <path d="M4 12l15-9v18z"/>
 </svg>

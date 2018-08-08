@@ -1,6 +1,6 @@
 <svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="circleArrowLeftIconTitle circleArrowLeftIconDesc">
     <title id="circleArrowLeftIconTitle">Arrow Left</title>
-    <desc id="circleArrowLeftIconDesc">Icon of an arrow poiting down closed in a circle</desc>
+    <desc id="circleArrowLeftIconDesc">Icon of an arrow pointing left closed in a circle</desc>
     <path d="M10.5 15l-3-3 3-3"/>
     <path d="M16.5 12H9"/>
     <path stroke-linecap="round" d="M7.5 12H9"/>
