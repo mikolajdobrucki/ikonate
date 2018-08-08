@@ -55,10 +55,10 @@ function generateInline(icons, Document){
             svgFile.removeChild(keywordsTag)
 
         const div = Document.createElement("div");
-        div.classList.add("container__grid-item");
+        div.classList.add("main__item");
 
         div.appendChild(svgFile);
-        Document.getElementsByClassName("container")["0"].appendChild(div);
+        Document.getElementsByClassName("main")["0"].appendChild(div);
     });
 }
 
@@ -81,10 +81,9 @@ function generateSprite(icons, Document){
         const descTag = svgFile.getElementsByTagName("desc")["0"]
 
         const div = Document.createElement("div");
-        div.classList.add("container__grid-item");
+        div.classList.add("main__item");
 
         const svg = Document.createElement("svg");
-        svg.classList.add("custom-icons");
 
         const use = Document.createElement("use");
         use.setAttribute("xlink:href", "../sprite/custom-icons.svg#"+item.replace(".svg", ""))
@@ -93,7 +92,7 @@ function generateSprite(icons, Document){
         svg.appendChild(descTag);
         svg.appendChild(use);
         div.appendChild(svg);
-        Document.getElementsByClassName("container")["0"].appendChild(div);
+        Document.getElementsByClassName("main")["0"].appendChild(div);
     });
 }
 

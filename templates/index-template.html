@@ -4,35 +4,31 @@
     <title>Custom Icons</title>
     <style>
         :root {
-            /* Colour Palette */
-            --grey--medium: #9ea7c7;
-            --grey--light: #fafafd;
+            --grey--light: #fafaff;
             --white: #ffffff;
-            --brand: #0E3FF2;
-            /* Dimensions */
-            --border-radius: 4px;
+            --brand: #2329D6;
         }
 
         body {
             background: var(--grey--light);
-        }
-
-        .container {
-            display: grid;
-            grid-template-columns: repeat(12, 1fr);
-            width: 1152px;
-            grid-gap: 32px;
-            margin: 0 auto;
             color: var(--brand);
         }
 
-        .container__grid-item {
-            background: var(--white);
-            border-radius: var(--border-radius);
-            padding: 20px;
+        .main {
+            width: 1152px;
+            text-align: center;
+            margin: 0 auto;
         }
 
-        .custom-icons {
+        .main__item {
+            background: var(--white);
+            border-radius: 4px;
+            padding: 20px;
+            display: inline-block;
+            margin: 10px;
+        }
+
+        .main__item svg {
             width: 24px;
             height: 24px;
             stroke: currentColor;
@@ -44,6 +40,6 @@
     </style>
 </head>
 <body>
-    <div class="container"></div>
+    <div class="main"></div>
 </body>
 </html>
