@@ -56,7 +56,7 @@ function createSymbolElement(options, name, DocumentTemplate){
         const tagName = svgDoc.childNodes[i].tagName
         const isLabelTag = (tagName === "title" || tagName === "desc")
 
-        if( tagName && (!options.removeLabelTags || !isLabelTag)){
+        if( tagName && !isLabelTag){
             symbol.appendChild(svgDoc.childNodes[i])
         }
     })
