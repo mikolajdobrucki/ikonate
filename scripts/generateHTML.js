@@ -9,11 +9,10 @@ module.exports = (params) => {
     const options = Object.assign(arguments, {
         templateSrc: arguments.templateSrc || "./templates/index-template.html",
         iconsCatalogSrc: arguments.iconsCatalogSrc || "./icons",
-        saveCatalog:  arguments.saveLocalization || "demo",
-        saveName:  arguments.saveLocalization || "index.html",
+        saveCatalog:  arguments.saveCatalog || "demo",
+        saveName:  arguments.saveName || "index.html",
         xLinkHref: arguments.xLinkHref || "../sprite/ikonate.svg"
     })
-    console.log(options)
 
     const DOM = new JSDOM(fs.readFileSync(options.templateSrc).toString("utf-8"));
     const Document = DOM.window.document;
