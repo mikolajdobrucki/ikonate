@@ -1,10 +1,10 @@
-# Custom Icons
+# Ikonate
 
-[![npm version](https://badge.fury.io/js/custom-icons.svg)](https://badge.fury.io/js/custom-icons)
+[![npm version](https://badge.fury.io/js/ikonate.svg)](https://badge.fury.io/js/ikonate)
 
-Custom icons are fully customisable & accessible[*](http://github.com/eucalyptuss/custom-icons#accessibility), well-optimised vector icons. 
+Ikonate are fully customisable & accessible[*](http://github.com/eucalyptuss/ikonate#accessibility), well-optimised vector icons. 
 
-To learn more about the project and generate the icons online, visit [>>>>>>URL<<<<<<](). In the downloaded .zip file you will find:
+To learn more about the project and generate the icons online, visit [Ikonate.com](http://ikonate.com). In the downloaded .zip file you will find:
 * customised SVG icons as stand-alone files (perfect for designers who don't want to edit code)
 * customised SVG sprite with an html demo
 * customised html demo of the icons as inline SVG
@@ -15,17 +15,17 @@ You can also follow the documentation below to generate generic demo files with 
 
 ## Git repository
 
-You can clone this repository to manually install Custom Icons in your project…
+You can clone this repository to manually install Ikonate in your project…
 
 ```bash
-git clone https://github.com/eucalyptuss/custom-icons.git
+git clone https://github.com/eucalyptuss/ikonate.git
 ```
 ### Install with npm
 
 …or you can download the icons using [npm](http://npmjs.com/) package manager.
 
 ```bash
-npm install custom-icons
+npm install ikonate
 ```
 
 ### Build
@@ -44,13 +44,13 @@ npm run build
 
 ### Raw SVG
 
-All the icons are available as raw, unstyled SVGs at `./custom-icons/icons`.
+All the icons are available as raw, unstyled SVGs at `./ikonate/icons`.
 
 ### Demo files
 
-*To view the demo files, remember to run [a build command](http://github.com/eucalyptuss/custom-icons#build) first.*
+*To view the demo files, remember to run [a build command](http://github.com/eucalyptuss/ikonate#build) first.*
 
-The generated demos of inline SVGs and SVG sprites are available respectively under `./custom-icons/inline/index.html` and `./custom-icons/sprite/index.html`.
+The generated demos of inline SVGs and SVG sprites are available respectively under `./ikonate/inline/index.html` and `./ikonate/sprite/index.html`.
 
 **IT DOESN'T WORK!** If you open the sprite demo directly in your browser, it may not display the icons correctly. To fix it, open it using an local server such as [http-server](https://www.npmjs.com/package/http-server).
 
@@ -60,7 +60,7 @@ The generated demos of inline SVGs and SVG sprites are available respectively un
 
 Reference: [CSS Tricks: Using SVG as an `<img>`](https://css-tricks.com/using-svg/#article-header-id-2)
 
-To generate your custom icons as separate *styled* svg files, visit [>>>>>>URL<<<<<<]().
+To generate your icons as separate *styled* svg files, visit [Ikonate.com](http://ikonate.com).
 
 Remember that using icons as `<img>` or `background-image`, you can't customise them with CSS.
 
@@ -68,19 +68,19 @@ Remember that using icons as `<img>` or `background-image`, you can't customise 
 
 Reference: [CSS Tricks: Using "inline" SVG](https://css-tricks.com/using-svg/#article-header-id-7)
 
-To use custom icons as inline svg, import the icons you need using a technique appropriate for your project from `./custom-icons/icons`.
+To use icons as inline svg, import the icons you need using a technique appropriate for your project from `./ikonate/icons`.
 
-Using this approach, you can later [customise the icons with CSS](http://github.com/eucalyptuss/custom-icons#customisation).
+Using this approach, you can later [customise the icons with CSS](http://github.com/eucalyptuss/ikonate#customisation).
 
 ### As SVG sprite.
 
 Reference: [CSS Tricks: SVG `use` with External Reference](https://css-tricks.com/svg-use-with-external-reference-take-2/)
 
-After running [the build command](http://github.com/eucalyptuss/custom-icons#build) successfully, you will find the SVG sprite with all the available icons in `./custom-icons/sprite`.
+After running [the build command](http://github.com/eucalyptuss/ikonate#build) successfully, you will find the SVG sprite with all the available icons in `./ikonate/sprite`.
 
-To generate your custom optimised SVG sprite, visit [>>>>>>URL<<<<<<]().
+To generate your custom optimised SVG sprite, visit [Ikonate.com](http://ikonate.com).
 
-Using this approach, you can later [customise the icons with CSS](http://github.com/eucalyptuss/custom-icons#customisation).
+Using this approach, you can later [customise the icons with CSS](http://github.com/eucalyptuss/ikonate#customisation).
 
 If you'd like to learn more about different ways of using SVG in your project, check out the following articles:
 * [A Practical Guide by svgontheweb.com](https://svgontheweb.com/#implementation)
@@ -109,13 +109,13 @@ stroke-linecap: round;
 stroke-linejoin: round;
 ```
 
-Check [the demo files](http://github.com/eucalyptuss/custom-icons#demo-files) for a representative example. 
+Check [the demo files](http://github.com/eucalyptuss/ikonate#demo-files) for a representative example. 
 
-You can also generate the styles and all the customised demo files at [>>>>>>URL<<<<<<]().
+You can also generate the styles and all the customised demo files at [Ikonate.com](http://ikonate.com).
 
 ## Accessibility
 
-Custom icons are NOT accessible out of the box and will never be. We've done our best to follow the best accessibility practices while building this software, but it's your role to adjust it and make it truly accessible inside your project. 
+Ikonate is NOT accessible out of the box and will never be. We've done our best to follow the best accessibility practices while building this software, but it's your role to adjust it and make it truly accessible inside your project. 
 
 E.g. all the titles and descriptions given to the icons should be treated as placeholders and changed in implementation depending on an actual role of each icon. In many cases, you may not need them altogether.
 
@@ -123,6 +123,6 @@ To learn more on this topic, read an excellent article by Chris Coyier: [How Can
 
 ## License
 
-Ucreate icons are available under the [MIT](https://github.com/eucalyptuss/custom-icons/blob/master/LICENSE). Feel free to use the set in both personal and commercial projects. Attribution in much appreciated but not required.
+Ucreate icons are available under the [MIT](https://github.com/eucalyptuss/ikonate/blob/master/LICENSE). Feel free to use the set in both personal and commercial projects. Attribution in much appreciated but not required.
 
 Do not resell or redistribute the icons, even for free. If you share the set on the web, always link to the project's page, not directly to the file. Do not repost the file on other websites and services.

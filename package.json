@@ -1,20 +1,22 @@
 {
-  "name": "custom-icons",
-  "version": "0.2.0",
-  "description": "fully customisable svg icons",
+  "name": "ikonate",
+  "version": "1.0.0",
+  "description": "fully customisable, accessible, well-optimised vector icons",
   "keywords": [
     "icons",
-    "set",
     "outline",
-    "customisable"
+    "customisable",
+    "icon system",
+    "generator",
+    "accessibility"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/eucalyptuss/custom-icons.git"
+    "url": "https://github.com/eucalyptuss/ikonate.git"
   },
   "scripts": {
     "sprite:dir": "node scripts/spritesDir.js",
-    "svgSpriteGenerate": "svg-sprite-generate -d ./icons -o ./sprite/custom-icons.svg",
+    "svgSpriteGenerate": "svg-sprite-generate -d ./icons -o ./sprite/ikonate.svg",
     "generate:sprite": "node -e \"require('./scripts/createSvgSpritesheet.js')()\"",
     "generate:html": "node -e \"require('./scripts/generateHTML')()\"",
     "demo": "npm run generate:sprite save && npm run generate:html sprite save",

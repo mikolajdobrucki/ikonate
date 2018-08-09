@@ -6,9 +6,9 @@ const xmldom = require("xmldom");
 const DOMParser = xmldom.DOMParser;
 const XMLSerializer = xmldom.XMLSerializer;
 
-const spritesheetsName = "custom-icons.svg";
+const spritesheetsName = "ikonate.svg";
 const srcToSpritesheets = "./sprite/"
-const srcToSpritesheetsTemplate = path.join(__dirname, "../templates/custom-icons-template.svg")
+const srcToSpritesheetsTemplate = path.join(__dirname, "../templates/ikonate-template.svg")
 const iconsDirectory = path.join(__dirname, "../icons");
 
 

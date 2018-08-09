@@ -11,7 +11,7 @@ module.exports = (params) => {
         iconsCatalogSrc: arguments.iconsCatalogSrc || "./icons",
         saveCatalog:  arguments.saveLocalization || "demo",
         saveName:  arguments.saveLocalization || "index.html",
-        xLinkHref: arguments.xLinkHref || "../sprite/custom-icons.svg"
+        xLinkHref: arguments.xLinkHref || "../sprite/ikonate.svg"
     })
     console.log(options)
 
@@ -73,10 +73,10 @@ function generateInline(options, icons, Document){
 
 function generateSprite(options, icons, Document){
     // <div class="container__grid-item">
-    //   <svg class="custom-icons">
+    //   <svg class="ikonate">
     //     <title id="lockAltOpenIconTitle">Lock</title>
     //     <desc id="lockAltOpenIconDesc">Icon of an opened lock</desc>
-    //     <use xlink:href="./custom-icons.svg#lock-alt-open"></use>
+    //     <use xlink:href="./ikonate.svg#lock-alt-open"></use>
     //   </svg>
     // </div>
 
