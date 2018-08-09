@@ -5,23 +5,31 @@ const JSDOM = jsdom.JSDOM;
 
 
 module.exports = (params) => {
-    const options = params || getOptions(process.argv)
+    const arguments = params || parseArgv(process.argv)
+    const options = Object.assign(arguments, {
+        templateSrc: arguments.templateSrc || "./templates/index-template.html",
+        iconsCatalogSrc: arguments.iconsCatalogSrc || "./icons",
+        saveCatalog:  arguments.saveLocalization || "demo",
+        saveName:  arguments.saveLocalization || "index.html",
+        xLinkHref: arguments.xLinkHref || "../sprite/custom-icons.svg"
+    })
+    console.log(options)
 
-    const DOM = new JSDOM(fs.readFileSync("./templates/index-template.html").toString("utf-8"));
+    const DOM = new JSDOM(fs.readFileSync(options.templateSrc).toString("utf-8"));
     const Document = DOM.window.document;
 
-    const iconsToRender = options.icons || fs.readdirSync("./icons")
+    const iconsToRender = options.icons || fs.readdirSync(options.iconsCatalogSrc)
 
     if(options.inline)
-        generateInline(iconsToRender, Document)
+        generateInline(options, iconsToRender, Document)
     if(options.sprite)
-        generateSprite(iconsToRender, Document)
+        generateSprite(options, iconsToRender, Document)
 
     const DOMstring = pretty(DOM.serialize())
 
     if(options.save){
-        fs.mkdir("demo", () => {
-            fs.writeFile("demo/index.html", DOMstring, err => {
+        fs.mkdir(options.saveCatalog, () => {
+            fs.writeFile(options.saveCatalog + "/" + options.saveName, DOMstring, err => {
                 if (err) {
                     console.log(err);
                 }
@@ -33,7 +41,7 @@ module.exports = (params) => {
 }
 
 
-function generateInline(icons, Document){
+function generateInline(options, icons, Document){
     // <div class="container__grid-item">
     //   <svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="lockAltOpenIconTitle lockAltOpenIconDesc">
     //     <title id="lockAltOpenIconTitle">Lock</title>
@@ -46,7 +54,7 @@ function generateInline(icons, Document){
 
     icons.map(item => {
         const svgFile = new JSDOM(
-            fs.readFileSync("./icons/" + item).toString("utf-8")
+            fs.readFileSync(options.iconsCatalogSrc + "/" + item).toString("utf-8")
         ).window.document.getElementsByTagName("svg")["0"];
 
         const keywordsTag = svgFile.getElementsByTagName("keywords")["0"]
@@ -63,7 +71,7 @@ function generateInline(icons, Document){
 }
 
 
-function generateSprite(icons, Document){
+function generateSprite(options, icons, Document){
     // <div class="container__grid-item">
     //   <svg class="custom-icons">
     //     <title id="lockAltOpenIconTitle">Lock</title>
@@ -74,7 +82,7 @@ function generateSprite(icons, Document){
 
     icons.map(item => {
         const svgFile = new JSDOM(
-            fs.readFileSync("./icons/" + item).toString("utf-8")
+            fs.readFileSync(options.iconsCatalogSrc + "/" + item).toString("utf-8")
         ).window.document.getElementsByTagName("svg")["0"];
 
         const titleTag = svgFile.getElementsByTagName("title")["0"]
@@ -86,7 +94,7 @@ function generateSprite(icons, Document){
         const svg = Document.createElement("svg");
 
         const use = Document.createElement("use");
-        use.setAttribute("xlink:href", "../sprite/custom-icons.svg#"+item.replace(".svg", ""))
+        use.setAttribute("xlink:href", options.xLinkHref + "#" + item.replace(".svg", ""))
 
         svg.appendChild(titleTag);
         svg.appendChild(descTag);
@@ -97,11 +105,16 @@ function generateSprite(icons, Document){
 }
 
 
-function getOptions(args){
+function parseArgv(args){
     const obj = {}
 
     args.forEach(i => {
-        obj[i] = true;
+        if(i.includes("=")){
+            const param = i.split("=")
+            obj[param[0]] = param[1]
+        }else{
+            obj[i] = true;
+        }
     })
 
     return obj
