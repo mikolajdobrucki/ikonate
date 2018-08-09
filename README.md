@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/ikonate.svg)](https://badge.fury.io/js/ikonate)
 
-Ikonate are fully customisable & accessible[*](http://github.com/eucalyptuss/ikonate#accessibility), well-optimised vector icons. 
+Ikonate are fully customisable & accessible[*](http://github.com/eucalyptuss/ikonate#accessibility), well-optimised vector icons.
 
 To learn more about the project and generate the icons online, visit [Ikonate.com](http://ikonate.com). In the downloaded .zip file you will find:
 * customised SVG icons as stand-alone files (perfect for designers who don't want to edit code)
@@ -10,6 +10,8 @@ To learn more about the project and generate the icons online, visit [Ikonate.co
 * customised html demo of the icons as inline SVG
 
 You can also follow the documentation below to generate generic demo files with all the available icons and customise them manually.
+
+*Built by [@mikolajdobrucki](https://twitter.com/mikolajdobrucki) & [@mzaremski](https://github.com/mzaremski) at [ucreate](http://www.ucreate.it/)*
 
 ## Installation
 
@@ -123,6 +125,6 @@ To learn more on this topic, read an excellent article by Chris Coyier: [How Can
 
 ## License
 
-Ucreate icons are available under the [MIT](https://github.com/eucalyptuss/ikonate/blob/master/LICENSE). Feel free to use the set in both personal and commercial projects. Attribution in much appreciated but not required.
+Ikonate is available under the [MIT](https://github.com/eucalyptuss/ikonate/blob/master/LICENSE). Feel free to use the set in both personal and commercial projects. Attribution in much appreciated but not required.
 
 Do not resell or redistribute the icons, even for free. If you share the set on the web, always link to the project's page, not directly to the file. Do not repost the file on other websites and services.
