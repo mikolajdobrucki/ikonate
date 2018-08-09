@@ -1,5 +1,5 @@
 <svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="homeIconTitle homeIconDesc">
     <title id="homeIconTitle">Home</title>
     <desc id="homeIconDesc">Icon of a house with a precipitous roof</desc>
-    <polygon points="3 10.182 3 22.182 21 22.182 21 10.182 12 2"/>
+    <path d="M3 10.182V22h18V10.182L12 2z"/>
 </svg>
