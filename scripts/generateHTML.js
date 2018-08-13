@@ -1,3 +1,5 @@
+"use strict";
+
 const fs = require("fs");
 const pretty = require("pretty");
 const jsdom = require("jsdom");
@@ -5,13 +7,13 @@ const JSDOM = jsdom.JSDOM;
 
 
 module.exports = (params) => {
-    const arguments = params || parseArgv(process.argv)
-    const options = Object.assign(arguments, {
-        templateSrc: arguments.templateSrc || "./templates/index-template.html",
-        iconsCatalogSrc: arguments.iconsCatalogSrc || "./icons",
-        saveCatalog:  arguments.saveCatalog || "demo",
-        saveName:  arguments.saveName || "index.html",
-        xLinkHref: arguments.xLinkHref || "../sprite/ikonate.svg"
+    const args = params || parseArgv(process.argv)
+    const options = Object.assign(args, {
+        templateSrc: args.templateSrc || "./templates/index-template.html",
+        iconsCatalogSrc: args.iconsCatalogSrc || "./icons",
+        saveCatalog:  args.saveCatalog || "demo",
+        saveName:  args.saveName || "index.html",
+        xLinkHref: args.xLinkHref || "../sprite/ikonate.svg"
     })
 
     const DOM = new JSDOM(fs.readFileSync(options.templateSrc).toString("utf-8"));
