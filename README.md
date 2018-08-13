@@ -52,7 +52,7 @@ All the icons are available as raw, unstyled SVGs at `./ikonate/icons`.
 
 *To view the demo files, remember to run [a build command](http://github.com/eucalyptuss/ikonate#build) first.*
 
-The generated demos of inline SVGs and SVG sprites are available respectively under `./ikonate/inline/index.html` and `./ikonate/sprite/index.html`.
+The generated demos of inline SVGs and SVG sprites are available respectively under `./ikonate/build/inline/index.html` and `./ikonate/build/sprite/index.html`.
 
 **IT DOESN'T WORK!** If you open the sprite demo directly in your browser, it may not display the icons correctly. To fix it, open it using an local server such as [http-server](https://www.npmjs.com/package/http-server).
 
@@ -111,13 +111,13 @@ stroke-linecap: round;
 stroke-linejoin: round;
 ```
 
-Check [the demo files](http://github.com/eucalyptuss/ikonate#demo-files) for a representative example. 
+Check [the demo files](http://github.com/eucalyptuss/ikonate#demo-files) for a representative example.
 
 You can also generate the styles and all the customised demo files at [Ikonate.com](http://ikonate.com).
 
 ## Accessibility
 
-Ikonate is NOT accessible out of the box and will never be. We've done our best to follow the best accessibility practices while building this software, but it's your role to adjust it and make it truly accessible inside your project. 
+Ikonate is NOT accessible out of the box and will never be. We've done our best to follow the best accessibility practices while building this software, but it's your role to adjust it and make it truly accessible inside your project.
 
 E.g. all the titles and descriptions given to the icons should be treated as placeholders and changed in implementation depending on an actual role of each icon. In many cases, you may not need them altogether.
 
