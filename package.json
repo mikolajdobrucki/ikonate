@@ -15,12 +15,13 @@
     "url": "https://github.com/eucalyptuss/ikonate.git"
   },
   "scripts": {
-    "sprite:dir": "node scripts/spritesDir.js",
     "svgSpriteGenerate": "svg-sprite-generate -d ./icons -o ./sprite/ikonate.svg",
     "generate:sprite": "node -e \"require('./scripts/createSvgSpritesheet.js')()\"",
     "generate:html": "node -e \"require('./scripts/generateHTML')()\"",
-    "demo": "npm run generate:sprite save && npm run generate:html sprite save",
-    "build": "run-s demo sprite:**"
+    "demo:dir": "node scripts/createBuildDir.js",
+    "demo:sprite": "npm run generate:sprite save && npm run generate:html sprite save saveCatalog=build/sprite",
+    "demo:inline": "npm run generate:html inline save saveCatalog=build/inline",
+    "build": "run-s demo:**"
   },
   "author": "Mikolaj Dobrucki <tease@mikolajdobrucki.com>",
   "license": "MIT",
