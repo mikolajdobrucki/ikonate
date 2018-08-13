@@ -1,23 +1,22 @@
 "use strict";
 
 const fs = require("fs");
-const path = require("path");
 const xmldom = require("xmldom");
 const DOMParser = xmldom.DOMParser;
 const XMLSerializer = xmldom.XMLSerializer;
 
-const spritesheetsName = "ikonate.svg";
-const srcToSpritesheets = "./sprite/"
-const srcToSpritesheetsTemplate = path.join(__dirname, "../templates/ikonate-template.svg")
-const iconsDirectory = path.join(__dirname, "../icons");
-
-
 
 module.exports = (params)=>{
-    const options = params || getOptions(process.argv)
+  const args = params || parseArgv(process.argv)
+  const options = Object.assign(args, {
+      spriteDistName: args.spriteDistName || "ikonate.svg",
+      spriteDistCatalog: args.spriteDistCatalog || "./build/sprite/",
+      spriteTemplateSrc:  args.spriteTemplateSrc || "./templates/ikonate-template.svg",
+      iconsCatalogSrc:  args.iconsCatalogSrc || "./icons"
+  })
 
     const DocumentTemplate = new DOMParser().parseFromString(
-        fs.readFileSync(srcToSpritesheetsTemplate).toString("utf-8")
+        fs.readFileSync(options.spriteTemplateSrc).toString("utf-8")
     );
     const DocumentTemplateSvgTag = DocumentTemplate.getElementsByTagName("svg")["0"]
 
@@ -28,11 +27,11 @@ module.exports = (params)=>{
 
     if(options.save){
         fs.writeFileSync(
-            srcToSpritesheets + spritesheetsName,
+            options.spriteDistCatalog + options.spriteDistName,
             new XMLSerializer().serializeToString(DocumentTemplate)
         );
 
-        return srcToSpritesheets + spritesheetsName
+        return options.spriteDistCatalog + options.spriteDistName
     }
 
     return new XMLSerializer().serializeToString(DocumentTemplate)
@@ -42,7 +41,7 @@ module.exports = (params)=>{
 
 function createSymbolElement(options, name, DocumentTemplate){
     const svgDoc = new DOMParser().parseFromString(
-        fs.readFileSync(iconsDirectory + "/" + name).toString("utf-8"),
+        fs.readFileSync(options.iconsCatalogSrc + "/" + name).toString("utf-8"),
         "text/xml"
     ).childNodes["0"];
 
@@ -65,11 +64,16 @@ function createSymbolElement(options, name, DocumentTemplate){
 }
 
 
-function getOptions(args){
+function parseArgv(args){
     const obj = {}
 
     args.forEach(i => {
-        obj[i] = true;
+        if(i.includes("=")){
+            const param = i.split("=")
+            obj[param[0]] = param[1]
+        }else{
+            obj[i] = true;
+        }
     })
 
     return obj
