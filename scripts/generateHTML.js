@@ -13,7 +13,7 @@ module.exports = (params) => {
         iconsCatalogSrc: args.iconsCatalogSrc || "./icons",
         saveCatalog:  args.saveCatalog || "demo",
         saveName:  args.saveName || "index.html",
-        xLinkHref: args.xLinkHref || "../sprite/ikonate.svg"
+        xLinkHref: args.xLinkHref || "./ikonate.svg"
     })
 
     const DOM = new JSDOM(fs.readFileSync(options.templateSrc).toString("utf-8"));
