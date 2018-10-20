@@ -95,7 +95,8 @@ function generateSprite(options, icons, Document){
         const svg = Document.createElement("svg");
 
         const use = Document.createElement("use");
-        use.setAttribute("xlink:href", options.xLinkHref + "#" + item.replace(".svg", ""))
+        use.setAttribute("xlink:href", options.xLinkHref + "#" + item.replace(".svg", ""));
+        use.setAttribute("href", options.xLinkHref + "#" + item.replace(".svg", ""));
 
         svg.appendChild(titleTag);
         svg.appendChild(descTag);
