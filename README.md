@@ -126,5 +126,3 @@ To learn more on this topic, read an excellent article by Chris Coyier: [How Can
 ## License
 
 Ikonate is available under the [MIT](https://github.com/eucalyptuss/ikonate/blob/master/LICENSE). Feel free to use the set in both personal and commercial projects. Attribution in much appreciated but not required.
-
-Do not resell or redistribute the icons, even for free. If you share the set on the web, always link to the project's page, not directly to the file. Do not repost the file on other websites and services.
