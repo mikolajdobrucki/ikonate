@@ -20,10 +20,15 @@ module.exports = (params)=>{
     );
     const DocumentTemplateSvgTag = DocumentTemplate.getElementsByTagName("svg")["0"]
 
-    const selectedSvgs = options.selectedSvgs ? options.selectedSvgs : fs.readdirSync("./icons")
-    selectedSvgs.forEach((name)=>{
-        DocumentTemplateSvgTag.appendChild(createSymbolElement(options, name, DocumentTemplate))
-    })
+	const selectedSvgs = options.selectedSvgs || fs.readdirSync("./icons");
+
+	selectedSvgs
+		.filter((i) => i.includes('.svg'))
+		.forEach((name)=>{
+		    DocumentTemplateSvgTag.appendChild(
+				createSymbolElement(options, name, DocumentTemplate)
+			)
+		})
 
     if(options.save){
         fs.writeFileSync(
