@@ -1,5 +1,5 @@
 <svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="alignRightIconTitle alignRightIconDesc">
     <title id="alignRightIconTitle">Align Right</title>
     <desc id="alignRightIconDesc">Icon of four horizontal lines representing right alignment of text</desc>
-    <path d="M6 10L14 10M6 6L18 6M6 14L18 14M6 18L14 18"/>
+    <path d="M10 10h8M6 6h12M6 14h12m-8 4h8"/>
 </svg>
