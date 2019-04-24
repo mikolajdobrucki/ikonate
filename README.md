@@ -125,4 +125,4 @@ To learn more on this topic, read an excellent article by Chris Coyier: [How Can
 
 ## License
 
-Ikonate is available under the [MIT](https://github.com/eucalyptuss/ikonate/blob/master/LICENSE). Feel free to use the set in both personal and commercial projects. Attribution in much appreciated but not required.
+Ikonate is available under the [MIT](https://github.com/eucalyptuss/ikonate/blob/master/LICENSE). Feel free to use the set in both personal and commercial projects. Attribution is much appreciated but not required.
