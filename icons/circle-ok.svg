@@ -1,6 +1,6 @@
 <svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="circleOkIconTitle circleOkIconDesc">
     <title id="circleOkIconTitle">OK</title>
-    <desc id="circleOkIconDesc">Icon of a checkmark (✓) closed in a circle</desc>
+    <desc id="circleOkIconDesc">Icon of a checkmark closed in a circle</desc>
     <polyline  points="7 13 10 16 17 9"/>
     <circle cx="12" cy="12" r="10" />
 </svg>

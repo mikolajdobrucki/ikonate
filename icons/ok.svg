@@ -1,5 +1,5 @@
 <svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="okIconTitle okIconDesc">
   <title id="okIconTitle">Ok</title>
-  <desc id="okIconDesc">Icon of a checkmark (✓)</desc>
+  <desc id="okIconDesc">Icon of a checkmark</desc>
   <polyline  points="4 13 9 18 20 7"/>
 </svg>
