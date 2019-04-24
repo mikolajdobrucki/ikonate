@@ -1,8 +1,8 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="circleArrowDownIconTitle circleArrowDownIconDesc">
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="circleArrowDownIconTitle circleArrowDownIconDesc" fill="none" stroke="black" stroke-width="2" stroke-linecap="round">
     <title id="circleArrowDownIconTitle">Arrow Down</title>
     <desc id="circleArrowDownIconDesc">Icon of an arrow pointing down closed in a circle</desc>
-    <path d="M10.5 15l-3-3 3-3"/>
-    <path d="M16.5 12H9"/>
-    <path stroke-linecap="round" d="M7.5 12H9"/>
+    <path d="M15 13.5l-3 3-3-3"/>
+    <path d="M12 15V7.5"/>
+    <path stroke-linecap="round" d="M12 16.5V15v1.5z"/>
     <circle cx="12" cy="12" r="10"/>
 </svg>
