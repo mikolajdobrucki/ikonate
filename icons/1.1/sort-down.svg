@@ -1,7 +1,9 @@
 <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-<path d="M11 9H17"/>
-<path d="M11 5H19"/>
-<path d="M11 13H15"/>
-<path d="M10 17L7 20L4 17"/>
-<path d="M7 5V19"/>
+	<title id="sortDownIconTitle">Sort Down</title>
+	<desc id="sortDownIconDesc"></desc>
+	<path d="M11 9H17"/>
+	<path d="M11 5H19"/>
+	<path d="M11 13H15"/>
+	<path d="M10 17L7 20L4 17"/>
+	<path d="M7 5V19"/>
 </svg>

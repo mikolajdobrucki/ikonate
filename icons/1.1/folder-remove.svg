@@ -1,4 +1,6 @@
 <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 5H9L10 7H21V19H3V5Z"/>
-<path d="M15 13H9"/>
+	<title id="folderRemoveIconTitle">Folder Remove</title>
+	<desc id="folderRemoveIconDesc"></desc>
+	<path d="M3 5H9L10 7H21V19H3V5Z"/>
+	<path d="M15 13H9"/>
 </svg>

@@ -1,8 +1,10 @@
 <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 5H21V21H3V5Z"/>
-<path d="M21 9H3"/>
-<path d="M8 5V3"/>
-<path d="M16 5V3"/>
-<path d="M15 15H9"/>
-<path d="M12 12V18"/>
+	<title id="calendarAddIconTitle">Calendar Add</title>
+	<desc id="calendarAddIconDesc"></desc>
+	<path d="M3 5H21V21H3V5Z"/>
+	<path d="M21 9H3"/>
+	<path d="M8 5V3"/>
+	<path d="M16 5V3"/>
+	<path d="M15 15H9"/>
+	<path d="M12 12V18"/>
 </svg>

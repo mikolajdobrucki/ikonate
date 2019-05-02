@@ -1,6 +1,8 @@
 <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-<path d="M16 4L19 7L16 10"/>
-<path d="M4 7L18 7"/>
-<path d="M7 20L4 17L7 14"/>
-<path d="M19 17L5 17"/>
+	<title id="swapVertical1IconTitle">Swap Vertical 1</title>
+	<desc id="swapVertical1IconDesc"></desc>
+	<path d="M16 4L19 7L16 10"/>
+	<path d="M4 7L18 7"/>
+	<path d="M7 20L4 17L7 14"/>
+	<path d="M19 17L5 17"/>
 </svg>
