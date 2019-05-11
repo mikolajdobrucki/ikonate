@@ -1,6 +1,5 @@
 <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 	<title id="shareIconTitle">Share</title>
-	<desc id="shareIconDesc"></desc>
 	<path d="M12 14V6"/>
 	<path d="M9 8L12 5L15 8"/>
 	<path d="M20 13C20 12.4477 19.5523 12 19 12C18.4477 12 18 12.4477 18 13H20ZM19 18V19H20V18H19ZM5 18H4V19H5V18ZM6 13C6 12.4477 5.55228 12 5 12C4.44772 12 4 12.4477 4 13H6ZM18 13V18H20V13H18ZM19 17H5V19H19V17ZM6 18V13H4V18H6Z" fill="#050733"/>

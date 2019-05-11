@@ -1,6 +1,5 @@
 <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-	<title id="sortDownIconTitle">Sort Down</title>
-	<desc id="sortDownIconDesc"></desc>
+	<title id="sortDownIconTitle">Sort in descending order</title>
 	<path d="M11 9H17"/>
 	<path d="M11 5H19"/>
 	<path d="M11 13H15"/>

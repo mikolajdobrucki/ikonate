@@ -1,5 +1,5 @@
 <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-	<title id="swapVerticalIconTitle">Swap Vertical</title>
+	<title id="swapVerticalIconTitle">Swap items (vertically)</title>
 	<desc id="swapVerticalIconDesc"></desc>
 	<path d="M4 8L7 5L10 8"/>
 	<path d="M7 20L7 6"/>

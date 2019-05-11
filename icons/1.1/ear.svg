@@ -1,6 +1,5 @@
 <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-	<title id="earIconTitle">Ear</title>
-	<desc id="earIconDesc"></desc>
+	<title id="earIconTitle">Ear (hearing)</title>
 	<path d="M6 10C6 6.13401 9.13401 3 13 3C16.866 3 20 6.13401 20 10C20 12.8721 18.2043 15.0806 16.5 17C15.0668 18.6141 14.5 22 11 22C9.87418 22 8.83526 21.6279 7.99951 21"/>
 	<path d="M10 10C10 8.34315 11.3431 7 13 7C14.6569 7 16 8.34315 16 10C16 10.7684 15.7111 11.4692 15.2361 12"/>
 </svg>

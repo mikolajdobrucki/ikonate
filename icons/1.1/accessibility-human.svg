@@ -1,6 +1,5 @@
 <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-	<title id="accessibilityHumanIconTitle">Accessibility Human</title>
-	<desc id="accessibilityHumanIconDesc"></desc>
+	<title id="accessibilityHumanIconTitle">Accessibility features</title>
 	<circle cx="12" cy="3" r="1"/>
 	<path d="M16 21L12 13M12 13V7M12 13L8 21M12 7L18 9M12 7L6 9"/>
 </svg>

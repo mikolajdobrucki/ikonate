@@ -1,6 +1,5 @@
 <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-	<title id="calendarDeclineIconTitle">Calendar Decline</title>
-	<desc id="calendarDeclineIconDesc"></desc>
+	<title id="calendarDeclineIconTitle">Decline calendar invite</title>
 	<path d="M3 5H21V21H3V5Z"/>
 	<path d="M21 9H3"/>
 	<path d="M8 5V3"/>
