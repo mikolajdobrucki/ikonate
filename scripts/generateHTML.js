@@ -39,9 +39,8 @@ module.exports = (params) => {
 
 function generateInline(options, icons, Document) {
 	// <div class="container__grid-item">
-	//   <svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="lockAltOpenIconTitle lockAltOpenIconDesc">
+	//   <svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="lockAltOpenIconTitle">
 	//     <title id="lockAltOpenIconTitle">Lock</title>
-	//     <desc id="lockAltOpenIconDesc">Icon of an opened lock</desc>
 	//     <path d="M7,7.625 L7,7 C7,4.23857625 9.23857625,2 12,2 L12,2 C14.7614237,2 17,4.23857625 17,7 L17,11"></path>
 	//     <rect width="14" height="10" x="5" y="11"></rect>
 	//     <circle cx="12" cy="16" r="1"></circle>
@@ -69,7 +68,6 @@ function generateSprite(options, icons, Document) {
 	// <div class="container__grid-item">
 	//   <svg class="ikonate">
 	//     <title id="lockAltOpenIconTitle">Lock</title>
-	//     <desc id="lockAltOpenIconDesc">Icon of an opened lock</desc>
 	//     <use xlink:href="./ikonate.svg#lock-alt-open"></use>
 	//   </svg>
 	// </div>
@@ -80,7 +78,6 @@ function generateSprite(options, icons, Document) {
 		).window.document.getElementsByTagName('svg')['0'];
 
 		const titleTag = svgFile.getElementsByTagName('title')['0'];
-		const descTag = svgFile.getElementsByTagName('desc')['0'];
 
 		const div = Document.createElement('div');
 		div.classList.add('main__item');
@@ -91,7 +88,6 @@ function generateSprite(options, icons, Document) {
 		use.setAttribute('xlink:href', `${options.xLinkHref}#${item.replace('.svg', '')}`);
 
 		svg.appendChild(titleTag);
-		svg.appendChild(descTag);
 		svg.appendChild(use);
 		div.appendChild(svg);
 		Document.getElementsByClassName('main')['0'].appendChild(div);
