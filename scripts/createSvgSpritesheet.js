@@ -18,7 +18,7 @@ module.exports = (params) => {
 	);
 	const DocumentTemplateSvgTag = DocumentTemplate.getElementsByTagName('svg')['0'];
 
-	const selectedSvgs = options.selectedSvgs || fs.readdirSync('./icons');
+	const selectedSvgs = options.selectedSvgs || getSvgNamesFromDir('./icons');
 
 	selectedSvgs
 		.filter((i) => i.includes('.svg'))
@@ -63,6 +63,10 @@ function createSymbolElement(options, name, DocumentTemplate) {
 	});
 
 	return symbol;
+}
+
+function getSvgNamesFromDir(dirName) {
+	return fs.readdirSync(dirName).filter((i) => i.includes('.svg'));
 }
 
 function parseArgv(args) {

@@ -17,7 +17,7 @@ module.exports = (params) => {
 	const DOM = new JSDOM(fs.readFileSync(options.templateSrc).toString('utf-8'));
 	const Document = DOM.window.document;
 
-	const iconsToRender = options.icons || fs.readdirSync(options.iconsCatalogSrc);
+	const iconsToRender = options.icons || getSvgNamesFromDir(options.iconsCatalogSrc);
 
 	if (options.inline) generateInline(options, iconsToRender, Document);
 	if (options.sprite) generateSprite(options, iconsToRender, Document);
@@ -92,6 +92,10 @@ function generateSprite(options, icons, Document) {
 		div.appendChild(svg);
 		Document.getElementsByClassName('main')['0'].appendChild(div);
 	});
+}
+
+function getSvgNamesFromDir(dirName) {
+	return fs.readdirSync(dirName).filter((i) => i.includes('.svg'));
 }
 
 function parseArgv(args) {
