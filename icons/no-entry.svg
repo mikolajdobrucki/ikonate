@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="noEntryIconTitle noEntryIconDesc">
-    <title id="noEntryIconTitle">No Entry</title>
-    <desc id="noEntryIconDesc">Icon of a octagonal sign with a horizontal line across</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="noEntryIconTitle">
+    <title id="noEntryIconTitle">No Entry</title>    
     <polygon points="16 3 21 8 21 16 16 21 8 21 3 16 3 8 8 3"/>
     <rect width="10" height="4" x="7" y="10"/>
 </svg>

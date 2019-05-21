@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="iphoneIconTitle iphoneIconDesc">
-    <title id="iphoneIconTitle">iPhone</title>
-    <desc id="iphoneIconDesc">Icon of a phone with a notch on top of the screen</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="iphoneIconTitle">
+    <title id="iphoneIconTitle">iPhone</title>    
     <path d="M18,3 L18,21 C18,21.5522847 17.5522847,22 17,22 L7,22 C6.44771525,22 6,21.5522847 6,21 L6,3 C6,2.44771525 6.44771525,2 7,2 L17,2 C17.5522847,2 18,2.44771525 18,3 Z"/>
     <polygon points="14 2 14 3 10 3 10 2"/>
 </svg>

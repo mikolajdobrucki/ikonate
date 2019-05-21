@@ -1,5 +1,4 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="headphonesIconTitle IconDesc">
-    <title id="headphonesIconTitle">Headphones</title>
-    <desc id="headphonesIconDesc">Icon of headphones</desc>
-    <path  stroke-linecap="round" d="M21,13 L19,13 C17.8954305,13 17,13.8954305 17,15 L17,17 C17,18.1045695 17.8954305,19 19,19 L19,19 C20.1045695,19 21,18.1045695 21,17 L21,13 C21,8.02943725 16.9705627,4 12,4 C7.02943725,4 3,8.02943725 3,13 L3,17 C3,18.1045695 3.8954305,19 5,19 L5,19 C6.1045695,19 7,18.1045695 7,17 L7,15 C7,13.8954305 6.1045695,13 5,13 L3,13"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="headphonesIconTitle">
+    <title id="headphonesIconTitle">Headphones</title>    
+    <path stroke-linecap="round" d="M21,13 L19,13 C17.8954305,13 17,13.8954305 17,15 L17,17 C17,18.1045695 17.8954305,19 19,19 L19,19 C20.1045695,19 21,18.1045695 21,17 L21,13 C21,8.02943725 16.9705627,4 12,4 C7.02943725,4 3,8.02943725 3,13 L3,17 C3,18.1045695 3.8954305,19 5,19 L5,19 C6.1045695,19 7,18.1045695 7,17 L7,15 C7,13.8954305 6.1045695,13 5,13 L3,13"/>
 </svg>

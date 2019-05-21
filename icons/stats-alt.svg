@@ -1,5 +1,4 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="statsAltIconTitle statsAltIconDesc">
-    <title id="statsAltIconTitle">Stats</title>
-    <desc id="statsAltIconDesc">Icon of a horizontal line chart</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="statsAltIconTitle">
+    <title id="statsAltIconTitle">Stats</title>    
     <path d="M14 6L8 6M21 10L8 10M4 18L4 6M18 14L8 14M10 18L8 18"/>
 </svg>

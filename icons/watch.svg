@@ -1,7 +1,6 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="watchIconTitle watchIconDesc">
-    <title id="watchIconTitle">Watch</title>
-    <desc id="watchIconDesc">Icon of a hand watch</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="watchIconTitle">
+    <title id="watchIconTitle">Watch</title>    
     <polyline stroke-linecap="round" points="10 7.758 10 2 15 2 15 7.758"/>
     <polyline stroke-linecap="round" points="15 15.242 15 22 10 22 10 15.242"/>
-    <circle cx="12.5" cy="11.5" r="4.5" />
+    <circle cx="12.5" cy="11.5" r="4.5"/>
 </svg>

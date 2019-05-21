@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="bagIconTitle bagIconDesc">
-    <title id="bagIconTitle">Bag</title>
-    <desc id="bagIconDesc">Icon of a shopping bag</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="bagIconTitle">
+    <title id="bagIconTitle">Bag</title>    
     <rect width="14" height="12" x="5" y="7"/>
     <path d="M8 7a4 4 0 1 1 8 0"/>
 </svg>

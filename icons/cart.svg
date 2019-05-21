@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="cartIconTitle cartIconDesc">
-    <title id="cartIconTitle">Cart</title>
-    <desc id="cartIconDesc">Icon of a shopping cart</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="cartIconTitle">
+    <title id="cartIconTitle">Cart</title>    
     <path d="M6 6h15l-1.5 9h-12z"/>
     <circle cx="9" cy="19" r="1"/>
     <circle cx="18" cy="19" r="1"/>

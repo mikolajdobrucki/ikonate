@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="entranceIconTitle entranceIconDesc">
-    <title id="entranceIconTitle">Entrance</title>
-    <desc id="entranceIconDesc">Icon of doors with an arrow pointing inside them</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="entranceIconTitle">
+    <title id="entranceIconTitle">Entrance</title>    
     <path d="M11 15l3-3-3-3"/>
     <path d="M4.5 12H13"/>
     <path stroke-linecap="round" d="M14 12h-1"/>

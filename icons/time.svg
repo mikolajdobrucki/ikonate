@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="timeIconTitle timeIconDesc">
-    <title id="timeIconTitle">Time</title>
-    <desc id="timeIconDesc">Icon of a analog clock with two hands</desc>
-    <circle cx="12" cy="12" r="10" />
-    <polyline  points="12 5 12 12 16 16"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="timeIconTitle">
+    <title id="timeIconTitle">Time</title>    
+    <circle cx="12" cy="12" r="10"/>
+    <polyline points="12 5 12 12 16 16"/>
 </svg>

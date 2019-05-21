@@ -1,5 +1,4 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="backIconTitle backIconDesc">
-    <title id="backIconTitle">Backwards</title>
-    <desc id="backIconDesc">Icon representing changing the current position backwards, e.g. on an audio or video track</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="backIconTitle">
+    <title id="backIconTitle">Backwards</title>    
     <path d="M14 14.74L21 19V5l-7 4.26V5L2 12l12 7v-4.26z"/>
 </svg>

@@ -1,7 +1,6 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="cutIconTitle cutIconDesc">
-    <title id="cutIconTitle">Cut</title>
-    <desc id="cutIconDesc">Icon of scrissors</desc>
-    <path  d="M3 18L15 9M15 15L3 6"/>
-    <circle cx="18" cy="7" r="3" />
-    <circle cx="18" cy="17" r="3" />
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="cutIconTitle">
+    <title id="cutIconTitle">Cut</title>    
+    <path d="M3 18L15 9M15 15L3 6"/>
+    <circle cx="18" cy="7" r="3"/>
+    <circle cx="18" cy="17" r="3"/>
 </svg>

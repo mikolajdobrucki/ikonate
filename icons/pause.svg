@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="pauseIconTitle pauseIconDesc">
-    <title id="pauseIconTitle">Pause</title>
-    <desc id="pauseIconDesc">Pause the currently playing track</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="pauseIconTitle">
+    <title id="pauseIconTitle">Pause</title>    
     <rect width="4" height="16" x="5" y="4"/>
     <rect width="4" height="16" x="15" y="4"/>
 </svg>

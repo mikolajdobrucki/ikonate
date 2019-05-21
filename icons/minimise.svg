@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="minimiseIconTitle minimiseIconDesc">
-    <title id="minimiseIconTitle">Minimise View</title>
-    <desc id="minimiseIconDesc">Minimise the visible viewport</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="minimiseIconTitle">
+    <title id="minimiseIconTitle">Minimise View</title>    
     <polyline points="8 3 8 8 3 8"/>
     <polyline points="21 8 16 8 16 3"/>
     <polyline points="3 16 8 16 8 21"/>

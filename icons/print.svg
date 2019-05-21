@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="printIconTitle printIconDesc">
-    <title id="printIconTitle">print</title>
-    <desc id="printIconDesc">Icon of a printer</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="printIconTitle">
+    <title id="printIconTitle">print</title>    
     <polygon points="17 14 17 21 7 21 7 14"/>
     <polygon points="17 3 17 9 7 9 7 3"/>
     <polyline points="7 18 3 18 3 9 3 9 21 9 21 18 17 18"/>

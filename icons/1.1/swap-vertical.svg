@@ -1,6 +1,6 @@
-<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="swapVerticalIconTitle">
 	<title id="swapVerticalIconTitle">Swap items (vertically)</title>
-	<desc id="swapVerticalIconDesc"></desc>
+	<desc id="swapVerticalIconDesc"/>
 	<path d="M4 8L7 5L10 8"/>
 	<path d="M7 20L7 6"/>
 	<path d="M20 17L17 20L14 17"/>

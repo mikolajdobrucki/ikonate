@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="chevronsRightIconTitle chevronsRightIconDesc">
-    <title id="chevronsRightIconTitle">Chevrons Right</title>
-    <desc id="chevronsRightIconDesc">Icon of two chevrons pointing right</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="chevronsRightIconTitle">
+    <title id="chevronsRightIconTitle">Chevrons Right</title>    
     <polyline points="13 7 18 12 13 17 13 17"/>
     <polyline points="7 7 12 12 7 17 7 17"/>
 </svg>

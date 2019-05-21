@@ -1,5 +1,4 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="bookmarkIconTitle bookmarkIconDesc">
-    <title id="bookmarkIconTitle">Bookmark</title>
-    <desc id="bookmarkIconDesc">Icon of a ribbon bookmark</desc>
-    <path  d="M17,6.65881537 L17,19.5857864 L12,16.4078051 L7,19.5857864 L7,6.65881537 C7,5.19039219 8.11928813,4 9.5,4 L14.5,4 C15.8807119,4 17,5.19039219 17,6.65881537 Z"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="bookmarkIconTitle">
+    <title id="bookmarkIconTitle">Bookmark</title>    
+    <path d="M17,6.65881537 L17,19.5857864 L12,16.4078051 L7,19.5857864 L7,6.65881537 C7,5.19039219 8.11928813,4 9.5,4 L14.5,4 C15.8807119,4 17,5.19039219 17,6.65881537 Z"/>
 </svg>

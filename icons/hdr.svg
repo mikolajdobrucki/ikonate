@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="hdrIconTitle hdrIconDesc">
-    <title id="hdrIconTitle">HDR</title>
-    <desc id="hdrIconDesc">Icon of hdr (High Dynamic Range)</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="hdrIconTitle">
+    <title id="hdrIconTitle">HDR</title>    
     <path d="M18 12h1l2 3"/>
     <path d="M7 9v6m3-6v6h2c1.333 0 2-1 2-3s-.667-3-2-3h-2zm7 6V9h3c.667 0 1 .5 1 1.5s-.333 1.5-1 1.5h-3M7 12H3m0-3v6"/>
 </svg>

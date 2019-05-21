@@ -1,5 +1,4 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="thermometerIconTitle thermometerIconDesc">
-    <title id="thermometerIconTitle">Thermometer</title>
-    <desc id="thermometerIconDesc">Icon of a traditional quicksilver thermometer</desc>
-    <path  d="M10,13.5351288 L10,5 C10,3.8954305 10.8954305,3 12,3 C13.1045695,3 14,3.8954305 14,5 L14,13.5351288 C15.1956027,14.2267476 16,15.5194353 16,17 C16,19.209139 14.209139,21 12,21 C9.790861,21 8,19.209139 8,17 C8,15.5194353 8.80439726,14.2267476 10,13.5351288 Z"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="thermometerIconTitle">
+    <title id="thermometerIconTitle">Thermometer</title>    
+    <path d="M10,13.5351288 L10,5 C10,3.8954305 10.8954305,3 12,3 C13.1045695,3 14,3.8954305 14,5 L14,13.5351288 C15.1956027,14.2267476 16,15.5194353 16,17 C16,19.209139 14.209139,21 12,21 C9.790861,21 8,19.209139 8,17 C8,15.5194353 8.80439726,14.2267476 10,13.5351288 Z"/>
 </svg>

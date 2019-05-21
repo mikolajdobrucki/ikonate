@@ -1,7 +1,6 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="downloadIconTitle downloadIconDesc">
-    <title id="downloadIconTitle">Download</title>
-    <desc id="downloadIconDesc">Save to your device</desc>
-    <path  d="M12,3 L12,16"/>
-    <polyline  points="7 12 12 17 17 12"/>
-    <path  d="M20,21 L4,21"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="downloadIconTitle">
+    <title id="downloadIconTitle">Download</title>    
+    <path d="M12,3 L12,16"/>
+    <polyline points="7 12 12 17 17 12"/>
+    <path d="M20,21 L4,21"/>
 </svg>

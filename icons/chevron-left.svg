@@ -1,5 +1,4 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="chevronLeftIconTitle chevronLeftIconDesc">
-    <title id="chevronLeftIconTitle">Chevron Left</title>
-    <desc id="chevronLeftIconDesc">Icon of a chevron pointing left</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="chevronLeftIconTitle">
+    <title id="chevronLeftIconTitle">Chevron Left</title>    
     <polyline points="14 18 8 12 14 6 14 6"/>
 </svg>

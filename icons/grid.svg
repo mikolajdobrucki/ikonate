@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="gridLargeIconTitle gridLargeIconDesc">
-    <title id="gridLargeIconTitle">Large Grid</title>
-    <desc id="gridLargeIconDesc">Icon of a large 2-by-2 grid</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="gridLargeIconTitle">
+    <title id="gridLargeIconTitle">Large Grid</title>    
     <rect width="7" height="7" x="3" y="3"/>
     <rect width="7" height="7" x="14" y="3"/>
     <rect width="7" height="7" x="3" y="14"/>

@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="cardsIconTitle cardsIconDesc">
-    <title id="cardsIconTitle">Cards</title>
-    <desc id="cardsIconDesc">Icon of two square cards, one on top another</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="cardsIconTitle">
+    <title id="cardsIconTitle">Cards</title>    
     <rect width="13" height="13" x="3" y="3"/>
     <polyline points="16 8 21 8 21 21 8 21 8 16"/>
 </svg>

@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="batteryChargingIconTitle batteryChargingIconDesc">
-    <title id="batteryChargingIconTitle">BatteryCharging</title>
-    <desc id="batteryChargingIconDesc">Icon of a batttery with a bolt on it</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="batteryChargingIconTitle">
+    <title id="batteryChargingIconTitle">BatteryCharging</title>    
     <path d="M21 14v-4"/>
     <path d="M20 6H4v12h16z"/>
     <polyline points="12 9 14 12 10 12 12 15"/>

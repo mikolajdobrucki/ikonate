@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="arrowRightTopIconTitle arrowRightTopIconDesc">
-    <title id="arrowRightTopIconTitle">Arrow Right Top</title>
-    <desc id="arrowRightTopIconDesc">Icon of a an diagonal arrow pointing at the right top corner</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="arrowRightTopIconTitle">
+    <title id="arrowRightTopIconTitle">Arrow Right Top</title>    
     <path d="M19 13V5h-8"/>
     <path stroke-linecap="round" d="M19 5l-1 1"/>
     <path d="M18 6L5 19"/>

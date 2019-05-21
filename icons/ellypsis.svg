@@ -1,7 +1,6 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="ellypsisIconTitle ellypsisIconDesc">
-    <title id="ellypsisIconTitle">Ellypsis</title>
-    <desc id="ellypsisIconDesc">Icon of an ellypsis (three dots in one line)</desc>
-    <circle cx="12" cy="12" r="1" />
-    <circle cx="6" cy="12" r="1" />
-    <circle cx="18" cy="12" r="1" />
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="ellypsisIconTitle">
+    <title id="ellypsisIconTitle">Ellypsis</title>    
+    <circle cx="12" cy="12" r="1"/>
+    <circle cx="6" cy="12" r="1"/>
+    <circle cx="18" cy="12" r="1"/>
 </svg>

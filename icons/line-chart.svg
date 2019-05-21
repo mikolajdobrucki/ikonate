@@ -1,8 +1,7 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="lineChartIconTitle lineChartIconDesc">
-    <title id="lineChartIconTitle">Line Chart</title>
-    <desc id="lineChartIconDesc">Icon of a line chart with increasing values</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="lineChartIconTitle">
+    <title id="lineChartIconTitle">Line Chart</title>    
     <path d="M3,16 L8,11"/>
-    <circle cx="9" cy="10" r="1" />
-    <circle cx="14" cy="15" r="1" />
+    <circle cx="9" cy="10" r="1"/>
+    <circle cx="14" cy="15" r="1"/>
     <path d="M10 11L13 14M15 14L21 8"/>
 </svg>

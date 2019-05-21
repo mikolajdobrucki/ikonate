@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="thumbDownIconTitle thumbDownIconDesc">
-    <title id="thumbDownIconTitle">Thumb Down</title>
-    <desc id="thumbDownIconDesc">Icon of a a hand with a thumb pointing down</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="thumbDownIconTitle">
+    <title id="thumbDownIconTitle">Thumb Down</title>    
     <path d="M16,15.2601518 C16,15.7375744 15.8292157,16.1992484 15.5185132,16.5617346 L10.7276069,22.1511253 C10.2999873,22.6500148 9.58770685,22.7938534 9,22.5 C8.42620429,22.2131021 8.15068597,21.5479421 8.35355339,20.9393398 L10,16 L5.39642543,16 C5.27644223,16 5.15670242,15.9892031 5.03865456,15.9677398 C3.95190186,15.7701484 3.23109421,14.7289818 3.42868561,13.6422291 L4.70141289,6.64222912 C4.87431859,5.69124773 5.70258042,5 6.66915271,5 L14,5 C15.1045695,5 16,5.8954305 16,7 L16,15.2601518 Z"/>
     <path d="M20,15 L20,6"/>
 </svg>

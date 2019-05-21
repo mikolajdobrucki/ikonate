@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="umbrellaIconTitle umbrellaIconDesc">
-    <title id="umbrellaIconTitle">Umbrella</title>
-    <desc id="umbrellaIconDesc">Icon of an open umbrella</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="umbrellaIconTitle">
+    <title id="umbrellaIconTitle">Umbrella</title>    
     <path d="M22,11 C22,6.02943725 17.5228475,2 12,2 C6.4771525,2 2,6.02943725 2,11 C7,11 15,11 22,11 Z"/>
     <path d="M17,19 C17,19.3333333 17,19.5 17,19.5 C17,20.8807119 15.8807119,22 14.5,22 C13.1192881,22 12,20.8807119 12,19.5 C12,18.7592593 12,16.2592593 12,12"/>
     <path stroke-linecap="butt" d="M12,12 L12,11"/>

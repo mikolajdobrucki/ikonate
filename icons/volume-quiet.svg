@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="volumeQuietIconTitle volumeQuietIconDesc">
-    <title id="volumeQuietIconTitle">Volume Quiet</title>
-    <desc id="volumeQuietIconDesc">Low level volume</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="volumeQuietIconTitle">
+    <title id="volumeQuietIconTitle">Volume Quiet</title>    
     <path d="M13 5v14l-5-4H3V9h5z"/>
     <path stroke-linecap="round" d="M13 14c1.5-1 1.5-3 0-4"/>
     <path d="M16,16 C18.0858253,13.9141747 18.0858253,10.0858253 16,8"/>

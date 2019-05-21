@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="undoIconTitle undoIconDesc">
-    <title id="undoIconTitle">Undo last action</title>
-    <desc id="undoIconDesc">Icon of an arc arrow pointing left</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="undoIconTitle">
+    <title id="undoIconTitle">Undo last action</title>    
     <path d="M8 15H3v-5"/>
     <path d="M5 13c5-5 12.575-4.275 16 1"/>
     <path stroke-linecap="round" d="M3 15l2-2"/>

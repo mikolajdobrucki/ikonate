@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="rotateIconTitle rotateIconDesc">
-    <title id="rotateIconTitle">Rotate</title>
-    <desc id="rotateIconDesc">Icon of two arrows making a circle</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="rotateIconTitle">
+    <title id="rotateIconTitle">Rotate</title>    
     <path d="M22 12l-3 3-3-3"/>
     <path d="M2 12l3-3 3 3"/>
     <path d="M19.016 14v-1.95A7.05 7.05 0 0 0 8 6.22"/>

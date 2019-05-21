@@ -1,5 +1,4 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="bluetoothIconTitle bluetoothIconDesc">
-    <title id="bluetoothIconTitle">Bluetooth</title>
-    <desc id="bluetoothIconDesc">Icon representing Bluetooth technology</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="bluetoothIconTitle">
+    <title id="bluetoothIconTitle">Bluetooth</title>    
     <polyline points="7 17 17 7 12 2 12 22 17 17 7 7"/>
 </svg>

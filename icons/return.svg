@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="returnIconTitle returnIconDesc">
-    <title id="returnIconTitle">Return</title>
-    <desc id="returnIconDesc">Start a new line</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="returnIconTitle">
+    <title id="returnIconTitle">Return</title>    
     <path d="M19,8 L19,11 C19,12.1045695 18.1045695,13 17,13 L6,13"/>
     <polyline points="8 16 5 13 8 10"/>
 </svg>

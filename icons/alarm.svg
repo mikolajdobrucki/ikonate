@@ -1,7 +1,6 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="alarmIconTitle alarmIconDesc">
-    <title id="alarmIconTitle">Alarm</title>
-    <desc id="alarmIconDesc">Icon of an analog alarm clock with two hands</desc>
-    <circle cx="12" cy="13" r="9" />
-    <polyline  points="12 8 12 13 15 16"/>
-    <path  d="M19 2L22 5M2 5L5 2"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="alarmIconTitle">
+    <title id="alarmIconTitle">Alarm</title>    
+    <circle cx="12" cy="13" r="9"/>
+    <polyline points="12 8 12 13 15 16"/>
+    <path d="M19 2L22 5M2 5L5 2"/>
 </svg>

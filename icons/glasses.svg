@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="glassesIconTitle glassesIconDesc">
-    <title id="glassesIconTitle">Glasses</title>
-    <desc id="glassesIconDesc">Icon of a pair of circular glasses</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="glassesIconTitle">
+    <title id="glassesIconTitle">Glasses</title>    
     <path stroke-linecap="round" d="M14 12c-.597-.667-1.264-1-2-1s-1.403.333-2 1"/>
     <path d="M20 12h2M2 12h2"/>
     <circle cx="7" cy="12" r="3"/>

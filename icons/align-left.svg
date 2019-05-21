@@ -1,5 +1,4 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="alignLeftIconTitle alignLeftIconDesc">
-    <title id="alignLeftIconTitle">Align Left</title>
-    <desc id="alignLeftIconDesc">Icon of four horizontal lines representing left alignment of text</desc>
-    <path  d="M6 10L14 10M6 6L18 6M6 14L18 14M6 18L14 18"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="alignLeftIconTitle">
+    <title id="alignLeftIconTitle">Align Left</title>    
+    <path d="M6 10L14 10M6 6L18 6M6 14L18 14M6 18L14 18"/>
 </svg>

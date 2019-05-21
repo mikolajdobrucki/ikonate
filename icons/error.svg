@@ -1,7 +1,6 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="errorIconTitle errorIconDesc">
-    <title id="errorIconTitle">Error</title>
-    <desc id="errorIconDesc">Icon of an exclamation mark closed in a circle</desc>
-    <path  d="M12 8L12 13"/>
-    <line x1="12" y1="16" x2="12" y2="16"></line>
-    <circle cx="12" cy="12" r="10" />
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="errorIconTitle">
+    <title id="errorIconTitle">Error</title>    
+    <path d="M12 8L12 13"/>
+    <line x1="12" y1="16" x2="12" y2="16"/>
+    <circle cx="12" cy="12" r="10"/>
 </svg>

@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="placeholderIconTitle placeholderIconDesc">
-    <title id="placeholderIconTitle">Placeholder</title>
-    <desc id="placeholderIconDesc">Icon of a rectangle crossed with two diagonals</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="placeholderIconTitle">
+    <title id="placeholderIconTitle">Placeholder</title>    
     <rect width="18" height="18" x="3" y="3"/>
     <path stroke-linecap="round" d="M21 21L3 3 21 21zM21 3L3 21 21 3z"/>
 </svg>

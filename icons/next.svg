@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="nextIconTitle nextIconDesc">
-    <title id="nextIconTitle">Next</title>
-    <desc id="nextIconDesc">Skip to the next item or track</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="nextIconTitle">
+    <title id="nextIconTitle">Next</title>    
     <path d="M17 11.5L6 18V5z"/>
     <path d="M18 18V5"/>
 </svg>

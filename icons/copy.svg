@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="copyIconTitle copyIconDesc">
-    <title id="copyIconTitle">Copy</title>
-    <desc id="copyIconDesc">Copy active/selected item(s)</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="copyIconTitle">
+    <title id="copyIconTitle">Copy</title>    
     <rect width="12" height="14" x="8" y="7"/>
     <polyline points="16 3 4 3 4 17"/>
 </svg>

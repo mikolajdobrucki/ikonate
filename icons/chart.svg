@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="chartIconTitle chartIconDesc">
-    <title id="chartIconTitle">Chart</title>
-    <desc id="chartIconDesc">Icon of a bar chart (graph) made of three vertical bars</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="chartIconTitle">
+    <title id="chartIconTitle">Chart</title>    
     <polygon points="2 12 2 21 6 21 6 12"/>
     <polygon points="18 7 18 21 22 21 22 7"/>
     <polygon points="10 3 10 21 14 21 14 3"/>

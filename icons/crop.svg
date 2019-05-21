@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="cropIconTitle cropIconDesc">
-    <title id="cropIconTitle">Crop</title>
-    <desc id="cropIconDesc">Crop an image/photo</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="cropIconTitle">
+    <title id="cropIconTitle">Crop</title>    
     <polyline points="17 3 17 17 3 17"/>
     <polyline points="7 21 7 7 21 7"/>
 </svg>

@@ -1,7 +1,6 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="historyIconTitle historyIconDesc">
-    <title id="historyIconTitle">History</title>
-    <desc id="historyIconDesc">Icon of a clock with a hand going backwards</desc>
-    <polyline  points="1 12 3 14 5 12"/>
-    <polyline  points="12 7 12 12 15 15"/>
-    <path  d="M12,21 C16.9705627,21 21,16.9705627 21,12 C21,7.02943725 16.9705627,3 12,3 C7.02943725,3 3,7.02943725 3,12 C3,11.975305 3,12.3086383 3,13"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="historyIconTitle">
+    <title id="historyIconTitle">History</title>    
+    <polyline points="1 12 3 14 5 12"/>
+    <polyline points="12 7 12 12 15 15"/>
+    <path d="M12,21 C16.9705627,21 21,16.9705627 21,12 C21,7.02943725 16.9705627,3 12,3 C7.02943725,3 3,7.02943725 3,12 C3,11.975305 3,12.3086383 3,13"/>
 </svg>

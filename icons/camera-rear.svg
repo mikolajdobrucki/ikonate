@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="cameraRearIconTitle cameraRearIconDesc">
-    <title id="cameraRearIconTitle">Switch the Cameras</title>
-    <desc id="cameraRearIconDesc">Icon of a camera with a rotate sign inside</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="cameraRearIconTitle">
+    <title id="cameraRearIconTitle">Switch the Cameras</title>    
     <path d="M6 12l2-2 2 2"/>
     <path d="M8 13a4 4 0 0 0 4 4m4-4a4 4 0 0 0-4-4"/>
     <path stroke-linecap="butt" d="M8 12v1m0-3v3m8 0v3"/>

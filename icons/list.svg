@@ -1,8 +1,8 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="listIconTitle listIconDesc">
-    <title id="listIconTitle"></title>
-    <desc id="listIconDesc">Icon of a unordered list with bullet points</desc>
-    <path  d="M10 7L18 7M10 12L18 12M10 17L18 17"/>
-    <line x1="7" y1="7" x2="7" y2="7"></line>
-    <line x1="7" y1="12" x2="7" y2="12"></line>
-    <line x1="7" y1="17" x2="7" y2="17"></line>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="listIconTitle">
+    <title id="listIconTitle"/>
+    
+    <path d="M10 7L18 7M10 12L18 12M10 17L18 17"/>
+    <line x1="7" y1="7" x2="7" y2="7"/>
+    <line x1="7" y1="12" x2="7" y2="12"/>
+    <line x1="7" y1="17" x2="7" y2="17"/>
 </svg>

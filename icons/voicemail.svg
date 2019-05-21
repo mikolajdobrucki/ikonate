@@ -1,7 +1,6 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="voicemailIconTitle voicemailIconDesc">
-    <title id="voicemailIconTitle">Voicemail</title>
-    <desc id="voicemailIconDesc">Icon of analog recording marchine</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="voicemailIconTitle">
+    <title id="voicemailIconTitle">Voicemail</title>    
     <path stroke-linecap="round" d="M18,16 L6,16"/>
-    <circle cx="6" cy="12" r="4" />
-    <circle cx="18" cy="12" r="4" />
+    <circle cx="6" cy="12" r="4"/>
+    <circle cx="18" cy="12" r="4"/>
 </svg>

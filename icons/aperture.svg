@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="apertureIconTitle apertureIconDesc">
-    <title id="apertureIconTitle">Aperture</title>
-    <desc id="apertureIconDesc">Icon of a camera lens aperture</desc>
-    <circle cx="12" cy="12" r="10" />
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="apertureIconTitle">
+    <title id="apertureIconTitle">Aperture</title>    
+    <circle cx="12" cy="12" r="10"/>
     <path stroke-linecap="round" d="M3 16L14 16M4.03589838 6.20577137L9.68258009 15.986111M13.0358984 2.20577137L7.46564357 11.8537357M10.9641016 21.7942286L16.6145423 12.0073782M19.9641016 17.7942286L14.3243006 8.02580675M21 8L10 8"/>
 </svg>

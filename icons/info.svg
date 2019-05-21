@@ -1,7 +1,6 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="infoIconTitle infoIconDesc">
-    <title id="infoIconTitle">Information</title>
-    <desc id="infoIconDesc">Icon of an "i" letter closed in a circle</desc>
-    <path  d="M12,12 L12,15"/>
-    <line x1="12" y1="9" x2="12" y2="9"></line>
-    <circle cx="12" cy="12" r="10" />
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="infoIconTitle">
+    <title id="infoIconTitle">Information</title>    
+    <path d="M12,12 L12,15"/>
+    <line x1="12" y1="9" x2="12" y2="9"/>
+    <circle cx="12" cy="12" r="10"/>
 </svg>

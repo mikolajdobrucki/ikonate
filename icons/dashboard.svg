@@ -1,9 +1,8 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="dashboardIconTitle dashboardIconDesc">
-    <title id="dashboardIconTitle">Dashboard</title>
-    <desc id="dashboardIconDesc">Icon of a dashboard</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="dashboardIconTitle">
+    <title id="dashboardIconTitle">Dashboard</title>    
     <rect width="20" height="20" x="2" y="2"/>
-    <path  d="M11 7L17 7M11 12L17 12M11 17L17 17"/>
-    <line x1="7" y1="7" x2="7" y2="7"></line>
-    <line x1="7" y1="12" x2="7" y2="12"></line>
-    <line x1="7" y1="17" x2="7" y2="17"></line>
+    <path d="M11 7L17 7M11 12L17 12M11 17L17 17"/>
+    <line x1="7" y1="7" x2="7" y2="7"/>
+    <line x1="7" y1="12" x2="7" y2="12"/>
+    <line x1="7" y1="17" x2="7" y2="17"/>
 </svg>

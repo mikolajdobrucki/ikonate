@@ -1,5 +1,4 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="powerIconTitle powerIconDesc">
-    <title id="powerIconTitle">Power</title>
-    <desc id="powerIconDesc">Switch on or off icon</desc>
-    <path  d="M12 2L12 11M18.363961 5.63603897C21.8786797 9.15075759 21.8786797 14.8492424 18.363961 18.363961 14.8492424 21.8786797 9.15075759 21.8786797 5.63603897 18.363961 2.12132034 14.8492424 2.12132034 9.15075759 5.63603897 5.63603897"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="powerIconTitle">
+    <title id="powerIconTitle">Power</title>    
+    <path d="M12 2L12 11M18.363961 5.63603897C21.8786797 9.15075759 21.8786797 14.8492424 18.363961 18.363961 14.8492424 21.8786797 9.15075759 21.8786797 5.63603897 18.363961 2.12132034 14.8492424 2.12132034 9.15075759 5.63603897 5.63603897"/>
 </svg>

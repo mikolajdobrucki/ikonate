@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="notAllowedIconTitle notAllowedIconDesc">
-    <title id="notAllowedIconTitle">Not Allowed</title>
-    <desc id="notAllowedIconDesc">Icon of a circular sign with a diagonal line across it</desc>
-    <circle cx="12" cy="12" r="10" />
-    <path stroke-linecap="square"  d="M5,5 L19,19"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="notAllowedIconTitle">
+    <title id="notAllowedIconTitle">Not Allowed</title>    
+    <circle cx="12" cy="12" r="10"/>
+    <path stroke-linecap="square" d="M5,5 L19,19"/>
 </svg>

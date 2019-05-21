@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="videoIconTitle videoIconDesc">
-    <title id="videoIconTitle">Video</title>
-    <desc id="videoIconDesc">Icon of a play icon closed in a circle</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="videoIconTitle">
+    <title id="videoIconTitle">Video</title>    
     <polygon points="18 12 9 16.9 9 7"/>
     <circle cx="12" cy="12" r="10"/>
 </svg>

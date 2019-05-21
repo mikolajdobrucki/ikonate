@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="sadFaceIconTitle sadFaceIconDesc">
-    <title id="sadFaceIconTitle">sad Face</title>
-    <desc id="sadFaceIconDesc">Icon of a face with a smile</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="sadFaceIconTitle">
+    <title id="sadFaceIconTitle">sad Face</title>    
     <line stroke-linecap="round" x1="9" y1="9" x2="9" y2="9"/>
     <line stroke-linecap="round" x1="15" y1="9" x2="15" y2="9"/>
     <path d="M8,16 C9.33333333,15.3333333 10.6656028,15.0003822 11.9968085,15.0011466 C13.3322695,15.0003822 14.6666667,15.3333333 16,16"/>

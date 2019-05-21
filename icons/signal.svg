@@ -1,5 +1,4 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="signalAltIconTitle signalAltIconDesc">
-    <title id="signalAltIconTitle">Signal</title>
-    <desc id="signalAltIconDesc">Icon of signal waves</desc>
-    <path  d="M18 5C11.372583 5 6 10.372583 6 17M18 9C13.581722 9 10 12.581722 10 17M18 13C15.790861 13 14 14.790861 14 17"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="signalAltIconTitle">
+    <title id="signalAltIconTitle">Signal</title>    
+    <path d="M18 5C11.372583 5 6 10.372583 6 17M18 9C13.581722 9 10 12.581722 10 17M18 13C15.790861 13 14 14.790861 14 17"/>
 </svg>

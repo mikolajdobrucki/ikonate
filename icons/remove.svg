@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="removeIconTitle removeIconDesc">
-    <title id="removeIconTitle">Remove</title>
-    <desc id="removeIconDesc">Icon of a minus sign closed in a circle</desc>
-    <path  d="M17,12 L7,12"/>
-    <circle cx="12" cy="12" r="10" />
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="removeIconTitle">
+    <title id="removeIconTitle">Remove</title>    
+    <path d="M17,12 L7,12"/>
+    <circle cx="12" cy="12" r="10"/>
 </svg>

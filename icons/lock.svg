@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="lockIconTitle lockIconDesc">
-    <title id="lockIconTitle">Lock</title>
-    <desc id="lockIconDesc">Icon of a lock</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="lockIconTitle">
+    <title id="lockIconTitle">Lock</title>    
     <rect width="14" height="10" x="5" y="11"/>
-    <path  d="M12,3 L12,3 C14.7614237,3 17,5.23857625 17,8 L17,11 L7,11 L7,8 C7,5.23857625 9.23857625,3 12,3 Z"/>
+    <path d="M12,3 L12,3 C14.7614237,3 17,5.23857625 17,8 L17,11 L7,11 L7,8 C7,5.23857625 9.23857625,3 12,3 Z"/>
 </svg>

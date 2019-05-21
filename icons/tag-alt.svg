@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="tagAltIconTitle tagAltIconDesc">
-    <title id="tagAltIconTitle">Tag</title>
-    <desc id="tagAltIconDesc">Icon of a paper tag</desc>
-    <circle cx="10" cy="12" r="1" />
-    <path  d="M8 18l-6-6 6-6h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H8z"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="tagAltIconTitle">
+    <title id="tagAltIconTitle">Tag</title>    
+    <circle cx="10" cy="12" r="1"/>
+    <path d="M8 18l-6-6 6-6h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H8z"/>
 </svg>

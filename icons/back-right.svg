@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="backRightIconTitle backRightIconDesc">
-    <title id="backRightIconTitle">Turn Back</title>
-    <desc id="backRightIconDesc">Icon of an arrow changing direction back by turning 180 degrees right</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="backRightIconTitle">
+    <title id="backRightIconTitle">Turn Back</title>    
     <path d="M19,17 L19,15 C19,10.0294373 15.1944204,6 10.5,6 C5.80557963,6 2,10.0294373 2,15"/>
     <polyline points="16 15 19 18 22 15"/>
 </svg>

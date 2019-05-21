@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="redoIconTitle redoIconDesc">
-    <title id="redoIconTitle">Redo last undone action</title>
-    <desc id="redoIconDesc">Icon of an arc arrow pointing right</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="redoIconTitle">
+    <title id="redoIconTitle">Redo last undone action</title>    
     <path d="M16 15h5v-5"/>
     <path d="M19 13C14 8 6.425 8.725 3 14"/>
     <path stroke-linecap="round" d="M21 15l-2-2"/>

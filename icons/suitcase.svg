@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="suitcaseIconTitle suitcaseIconDesc">
-    <title id="suitcaseIconTitle">Suitcase</title>
-    <desc id="suitcaseIconDesc">Icon of a suitcase</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="suitcaseIconTitle">
+    <title id="suitcaseIconTitle">Suitcase</title>    
     <rect width="18" height="12" x="3" y="7"/>
-    <rect width="8" height="4" x="8" y="3" />
+    <rect width="8" height="4" x="8" y="3"/>
 </svg>

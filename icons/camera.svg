@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="cameraIconTitle cameraIconDesc">
-    <title id="cameraIconTitle">Camera</title>
-    <desc id="cameraIconDesc">Icon of a photographic camera</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="cameraIconTitle">
+    <title id="cameraIconTitle">Camera</title>    
     <path d="M8 7l.74-1.11A2 2 0 0 1 10.404 5h3.192a2 2 0 0 1 1.664.89L16 7h5v11H3V7h5z"/>
     <circle cx="12" cy="12" r="3"/>
 </svg>

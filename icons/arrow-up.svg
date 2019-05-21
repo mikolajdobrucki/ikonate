@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="arrowUpIconTitle arrowUpIconDesc">
-    <title id="arrowUpIconTitle">Arrow Up</title>
-    <desc id="arrowUpIconDesc">Icon of a arrow pointing up</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="arrowUpIconTitle">
+    <title id="arrowUpIconTitle">Arrow Up</title>    
     <path d="M18 9l-6-6-6 6"/>
     <path d="M12 21V4"/>
     <path stroke-linecap="round" d="M12 3v1"/>

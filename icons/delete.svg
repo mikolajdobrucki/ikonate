@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="deleteIconTitle deleteIconDesc">
-    <title id="deleteIconTitle">Delete (Backspace)</title>
-    <desc id="deleteIconDesc">Delete content to the left side of the cursor</desc>
-    <polygon points="20 18 9 18 3 12 9 6 20 6" />
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="deleteIconTitle">
+    <title id="deleteIconTitle">Delete (Backspace)</title>    
+    <polygon points="20 18 9 18 3 12 9 6 20 6"/>
     <path d="M12.1143819 10.1143819L15.8856181 13.8856181M12.1143819 13.8856181L15.8856181 10.1143819"/>
 </svg>

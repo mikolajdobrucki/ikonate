@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="uploadIconTitle uploadIconDesc">
-    <title id="uploadIconTitle">Upload</title>
-    <desc id="uploadIconDesc">Files files from the device storage</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="uploadIconTitle">
+    <title id="uploadIconTitle">Upload</title>    
     <path d="M12,4 L12,17"/>
     <polyline points="7 8 12 3 17 8"/>
     <path d="M20,21 L4,21"/>

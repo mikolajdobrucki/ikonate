@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="gridSmallIconTitle gridSmallIconDesc">
-    <title id="gridSmallIconTitle">Small Grid</title>
-    <desc id="gridSmallIconDesc">Icon of a small 2-by-2 grid</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="gridSmallIconTitle">
+    <title id="gridSmallIconTitle">Small Grid</title>    
     <rect width="4" height="4" x="6" y="6"/>
     <rect width="4" height="4" x="13" y="6"/>
     <rect width="4" height="4" x="6" y="13"/>

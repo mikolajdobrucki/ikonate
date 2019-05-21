@@ -1,5 +1,4 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="octagonIconTitle octagonIconDesc">
-    <title id="octagonIconTitle">Octagon</title>
-    <desc id="octagonIconDesc">Icon of a regular octagon</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="octagonIconTitle">
+    <title id="octagonIconTitle">Octagon</title>    
     <polygon points="16 3 21 8 21 16 16 21 8 21 3 16 3 8 8 3"/>
 </svg>

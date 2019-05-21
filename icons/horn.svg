@@ -1,7 +1,6 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="hornIconTitle hornIconDesc">
-    <title id="hornIconTitle">Bullhorn</title>
-    <desc id="hornIconDesc">Icon of a bullhorn</desc>
-    <path stroke-linejoin="round"  d="M6.5,9 C8.33333333,9 10.1666667,9 12,9 C14,9 16.3333333,7.33333333 19,4 L19,19 C16.3333333,15.6666667 14,14 12,14 C10.1666667,14 8.33333333,14 6.5,14 L6.5,14 C5.11928813,14 4,12.8807119 4,11.5 L4,11.5 C4,10.1192881 5.11928813,9 6.5,9 Z"/>
-    <polygon  points="7 14 9 20 13 20 11 14"/>
-    <path  d="M11,9 L11,14"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="hornIconTitle">
+    <title id="hornIconTitle">Bullhorn</title>    
+    <path stroke-linejoin="round" d="M6.5,9 C8.33333333,9 10.1666667,9 12,9 C14,9 16.3333333,7.33333333 19,4 L19,19 C16.3333333,15.6666667 14,14 12,14 C10.1666667,14 8.33333333,14 6.5,14 L6.5,14 C5.11928813,14 4,12.8807119 4,11.5 L4,11.5 C4,10.1192881 5.11928813,9 6.5,9 Z"/>
+    <polygon points="7 14 9 20 13 20 11 14"/>
+    <path d="M11,9 L11,14"/>
 </svg>

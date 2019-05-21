@@ -1,4 +1,4 @@
-<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="calendarAddIconTitle">
 	<title id="calendarAddIconTitle">Add to calendar</title>
 	<path d="M3 5H21V21H3V5Z"/>
 	<path d="M21 9H3"/>

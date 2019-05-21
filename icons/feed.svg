@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="feedIconTitle feedIconDesc">
-    <title id="feedIconTitle">Feed</title>
-    <desc id="feedIconDesc">Icon of a scrollable user interface view with a toolbar</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="feedIconTitle">
+    <title id="feedIconTitle">Feed</title>    
     <circle cx="7.5" cy="7.5" r="2.5"/>
     <path d="M22 13H2"/>
     <path d="M18 6h-5m5 3h-5"/>

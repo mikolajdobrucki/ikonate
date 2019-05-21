@@ -1,5 +1,4 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="minusIconTitle minusIconDesc">
-    <title id="minusIconTitle">Minus</title>
-    <desc id="minusIconDesc">Icon of a minus sign (-)</desc>
-    <path  d="M20,12 L4,12"/>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="minusIconTitle">
+    <title id="minusIconTitle">Minus</title>    
+    <path d="M20,12 L4,12"/>
 </svg>

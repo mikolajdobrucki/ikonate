@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="turnLeftIconTitle turnLeftIconDesc">
-    <title id="turnLeftIconTitle">Turn Left</title>
-    <desc id="turnLeftIconDesc">Icon of ana angled arrow turning left</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="turnLeftIconTitle">
+    <title id="turnLeftIconTitle">Turn Left</title>    
     <path d="M4.71493213,9 L8.06176471,9 C14.65507,9 20,13.0983574 20,19.3875"/>
     <polyline points="9 14 4 9 9 4 9 4"/>
 </svg>

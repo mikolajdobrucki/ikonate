@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="sunsetIconTitle sunsetIconDesc">
-    <title id="sunsetIconTitle">Sunset</title>
-    <desc id="sunsetIconDesc">Icon of sun partially hidden below the horizon</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="sunsetIconTitle">
+    <title id="sunsetIconTitle">Sunset</title>    
     <path d="M9.3541756,17 C8.52375489,16.2670555 8,15.1946925 8,14 C8,11.790861 9.790861,10 12,10 C14.209139,10 16,11.790861 16,14 C16,15.1946925 15.4762451,16.2670555 14.6458244,17 L9.3541756,17 Z"/>
     <path d="M12 7L12 5M22 17L2 17 22 17zM5 14L2 14 5 14zM22 14L19 14 22 14zM16.7071068 9.82842712L18.8284271 7.70710678 16.7071068 9.82842712zM4.70710678 7.70710678L6.82842712 9.82842712 4.70710678 7.70710678z"/>
 </svg>

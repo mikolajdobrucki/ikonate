@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="notebookIconTitle notebookIconDesc">
-    <title id="notebookIconTitle">Notebook</title>
-    <desc id="notebookIconDesc">Icon of a closed notebook with blank cover</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="notebookIconTitle">
+    <title id="notebookIconTitle">Notebook</title>    
     <path d="M9 8h5"/>
     <path d="M18 3v18H6a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h12z"/>
     <path d="M5 19v-1a1 1 0 0 1 1-1h12"/>

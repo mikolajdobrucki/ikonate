@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="trendingDownIconTitle trendingDownIconDesc">
-    <title id="trendingDownIconTitle">trending</title>
-    <desc id="trendingDownIconDesc">Icon of a line chart with decreasing values</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="trendingDownIconTitle">
+    <title id="trendingDownIconTitle">trending</title>    
     <path d="M3 7l6 6 4-4 7.405 7.405"/>
     <path stroke-linecap="round" d="M20.405 16.405L21 17"/>
     <path d="M21 14v3h-3"/>

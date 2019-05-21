@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="layoutLeftIconTitle layoutLeftIconDesc">
-    <title id="layoutLeftIconTitle">Layout Left</title>
-    <desc id="layoutLeftIconDesc">Icon of a user interface layout with content area on the right and sidebar on the left</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="layoutLeftIconTitle">
+    <title id="layoutLeftIconTitle">Layout Left</title>    
     <rect width="18" height="18" x="3" y="3"/>
     <path d="M3 8L21 8M9 8L9 21"/>
 </svg>

@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="basketIconTitle basketIconDesc">
-    <title id="basketIconTitle">Basket</title>
-    <desc id="basketIconDesc">Icon of a shopping basket with two handles</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="basketIconTitle">
+    <title id="basketIconTitle">Basket</title>    
     <path d="M14 4l6 6-1.372 9H5.372L4 10l6-6"/>
     <path stroke-linecap="round" d="M4 10h16"/>
 </svg>

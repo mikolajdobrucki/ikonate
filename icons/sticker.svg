@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="stickerIconTitle stickerIconDesc">
-    <title id="stickerIconTitle">Sticker</title>
-    <desc id="stickerIconDesc">Icon of a square sticker</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="stickerIconTitle">
+    <title id="stickerIconTitle">Sticker</title>    
     <path d="M21,3 L21,11 C21,16.5228475 16.5228475,21 11,21 L3,21 L3,3 L21,3 Z"/>
     <path d="M9,21 C11.6666667,21 13,19.6666667 13,17 C13,17 13,15.6666667 13,13 L17,13 C19.6666667,13 21,11.6666667 21,9"/>
 </svg>

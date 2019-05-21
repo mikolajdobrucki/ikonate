@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="batteryMediumIconTitle batteryMediumIconDesc">
-    <title id="batteryMediumIconTitle">Battery 66%</title>
-    <desc id="batteryMediumIconDesc">Icon of a battery 33% charged</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="batteryMediumIconTitle">
+    <title id="batteryMediumIconTitle">Battery 66%</title>    
     <path d="M21 14v-4"/>
     <path d="M20 6H4v12h16z"/>
     <path d="M12 14v-4m-4 4v-4"/>

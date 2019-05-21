@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="searchIconTitle searchIconDesc">
-    <title id="searchIconTitle">Search</title>
-    <desc id="searchIconDesc">Icon of a magnifying glass</desc>
-    <path  d="M14.4121122,14.4121122 L20,20"/>
-    <circle cx="10" cy="10" r="6" />
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="searchIconTitle">
+    <title id="searchIconTitle">Search</title>    
+    <path d="M14.4121122,14.4121122 L20,20"/>
+    <circle cx="10" cy="10" r="6"/>
 </svg>

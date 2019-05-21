@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="addIconTitle addIconDesc">
-    <title id="addIconTitle">Add</title>
-    <desc id="addIconDesc">Icon of a plus sign enclosed in a circle</desc>
-    <path  d="M17 12L7 12M12 17L12 7"/>
-    <circle cx="12" cy="12" r="10" />
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="addIconTitle">
+    <title id="addIconTitle">Add</title>    
+    <path d="M17 12L7 12M12 17L12 7"/>
+    <circle cx="12" cy="12" r="10"/>
 </svg>

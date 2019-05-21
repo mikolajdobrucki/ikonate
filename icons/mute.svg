@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="muteIconTitle muteIconDesc">
-    <title id="IconTitle">Mute</title>
-    <desc id="muteIconDesc">Icon of a speaker with a cross (x) sign</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="muteIconTitle">
+    <title id="IconTitle">Mute</title>    
     <path d="M18 10L22 14M18 14L22 10"/>
     <path d="M13 5v14l-5-4H3V9h5z"/>
     <path stroke-linecap="round" d="M13 14c1.5-1 1.5-3 0-4"/>

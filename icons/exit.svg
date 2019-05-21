@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="exitIconTitle exitIconDesc">
-    <title id="exitIconTitle">Exit</title>
-    <desc id="exitIconDesc">Icon of doors with an arrow pointing outside of them</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="exitIconTitle">
+    <title id="exitIconTitle">Exit</title>    
     <path d="M18 15l3-3-3-3"/>
     <path d="M11.5 12H20"/>
     <path stroke-linecap="round" d="M21 12h-1"/>

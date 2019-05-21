@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="sortingIconTitle sortingIconDesc">
-    <title id="sortingIconTitle">Sorting</title>
-    <desc id="sortingIconDesc">Change sorting</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="sortingIconTitle">
+    <title id="sortingIconTitle">Sorting</title>    
     <polyline points="8 8.333 12 4.333 16 8.333 16 8.333"/>
     <polyline points="16 15.667 12 19.667 8 15.667 8 15.667"/>
 </svg>

@@ -1,6 +1,5 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="filmIconTitle filmIconDesc">
-    <title id="filmIconTitle">Film</title>
-    <desc id="filmIconDesc">Icon of a movie camera (camcoder)</desc>
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="filmIconTitle">
+    <title id="filmIconTitle">Film</title>    
     <path stroke-linecap="round" d="M16 10.087l5-1.578v7.997l-4.998-1.578"/>
     <path d="M16 7H3v11h13z"/>
 </svg>
