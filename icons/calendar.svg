@@ -1,5 +1,7 @@
 <svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="calendarIconTitle">
     <title id="calendarIconTitle">Calendar</title>    
-    <rect width="18" height="16" x="3" y="5"/>
-    <path d="M21 10L3 10M8 7L8 3M16 7L16 3"/>
+    <path d="M3 5H21V21H3V5Z"/>
+    <path d="M21 9H3"/>
+    <path d="M7 5V3"/>
+    <path d="M17 5V3"/>
 </svg>

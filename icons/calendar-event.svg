@@ -2,7 +2,7 @@
 	<title id="calendarEventIconTitle">Calendar event</title>
 	<path d="M3 5H21V21H3V5Z"/>
 	<path d="M21 9H3"/>
-	<path d="M8 5V3"/>
-	<path d="M16 5V3"/>
+	<path d="M7 5V3"/>
+	<path d="M17 5V3"/>
 	<rect x="15" y="15" width="2" height="2"/>
 </svg>
