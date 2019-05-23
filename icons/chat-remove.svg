@@ -1,0 +1,5 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="chatRemoveIconTitle">
+	<title id="chatRemoveIconTitle">Delete a chat</title>
+	<path d="M15 10H9"/>
+	<path d="M21 4V17H13L7 21V17H3V4H21Z"/>
+</svg>
