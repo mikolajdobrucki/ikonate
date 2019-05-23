@@ -1,7 +1,7 @@
 <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="accessibilityIconTitle">
 	<title id="accessibilityIconTitle">A11Y (accessibility)</title>
-	<path d="M2 16L3 13.5M6 16L5 13.5M3 13.5L4 11L5 13.5M3 13.5H5"/>
-	<path d="M20 12L22 9M20 12L18 9M20 12L20 16"/>
+	<path d="M2 16L2.8 14M6 16L5.2 14M5.2 14L4 11L2.8 14M5.2 14H2.8"/>
+	<path d="M20 13L22 10M20 13L18 10M20 13L20 16"/>
 	<path d="M8 12L10 10V16"/>
 	<path d="M13 12L15 10V16"/>
 </svg>
