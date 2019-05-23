@@ -1,7 +1,7 @@
 <svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="repeatIconTitle">
     <title id="repeatIconTitle">Repeat</title>    
-    <path d="M2,13.0399239 L2,11 C2,7.6862915 4.6862915,5 8,5 L21,5"/>
-    <polyline points="20 3 22 5 20 7 20 7"/>
-    <path d="M22,9.98003805 L22,12.019962 C22,15.3336705 19.3137085,18.019962 16,18.019962 L3,18.019962"/>
-    <polyline points="4 20.02 2 18.02 4 16.02 4 16.02"/>
+    <path d="M2 13.0399V11C2 7.68629 4.68629 5 8 5H21V5"/>
+    <path d="M19 2L22 5L19 8"/>
+    <path d="M22 9.98004V12.02C22 15.3337 19.3137 18.02 16 18.02H3V18.02"/>
+    <path d="M5 21L2 18L5 15"/>
 </svg>

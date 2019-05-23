@@ -1,6 +1,6 @@
 <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="folderWarningIconTitle">
 	<title id="folderWarningIconTitle">Folder with a warning state</title>
 	<path d="M12 10V13"/>
-	<path fill-rule="evenodd" clip-rule="evenodd" d="M12 17C12.5523 17 13 16.5523 13 16C13 15.4477 12.5523 15 12 15C11.4477 15 11 15.4477 11 16C11 16.5523 11.4477 17 12 17Z" fill="#050733"/>
 	<path d="M3 5H9L10 7H21V19H3V5Z"/>
+	<line x1="12" y1="16" x2="12" y2="16"></line>
 </svg>

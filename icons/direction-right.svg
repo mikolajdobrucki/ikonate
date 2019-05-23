@@ -1,6 +1,5 @@
 <svg role="img" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="directionRightIconTitle">
     <title id="directionRightIconTitle"/>
-    
-    <path d="M5,21 C5,19.4444444 5,16.7222222 5,12.8333333 C5,8.94444444 6.94444444,7 10.8333333,7 L18,7"/>
-    <polyline points="16 4 19 7 16 10 16 10"/>
+    <path d="M18 7H10.8333C10.8333 7 5 7 5 12.8333C5 18.6667 5 21 5 21"/>
+    <path d="M15 11L19 7L15 3"/>
 </svg>
