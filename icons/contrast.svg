@@ -1,8 +1,10 @@
 <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-labelledby="contrastIconTitle">
 	<title id="contrastIconTitle">Contrast control</title>
 	<rect x="21" y="3" width="18" height="18" transform="rotate(90 21 3)"/>
-	<path d="M21 3L3 21"/>
-	<path d="M16 3L3 16"/>
-	<path d="M11 3L3 11"/>
-	<path d="M6 3L3 6"/>
+	<g stroke-linecap="round">
+		<path d="M21 3L3 21"/>
+		<path d="M16 3L3 16"/>
+		<path d="M11 3L3 11"/>
+		<path d="M6 3L3 6"/>
+	</g>
 </svg>
