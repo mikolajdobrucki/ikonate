@@ -1,0 +1,7 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-labelledby="pollIconTitle">
+    <title id="pollIconTitle">Poll</title>
+    <path d="M4 4V20"/>
+    <path d="M4 6H15V10H4"/>
+    <path d="M4 10H19V14H4"/>
+    <path d="M4 14H12V18H4"/>
+</svg>

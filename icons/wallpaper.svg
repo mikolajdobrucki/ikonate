@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-labelledby="wallpaperIconTitle">
+    <title id="wallpaperIconTitle">Wallpaper</title>
+    <circle cx="12" cy="7" r="3"/>
+    <circle cx="12" cy="17" r="3"/>
+    <circle cx="16.3301" cy="9.50005" r="3" transform="rotate(60 16.3301 9.50005)"/>
+    <circle cx="7.66987" cy="14.5001" r="3" transform="rotate(60 7.66987 14.5001)"/>
+    <circle cx="7.66985" cy="9.49995" r="3" transform="rotate(-60 7.66985 9.49995)"/>
+    <circle cx="16.3301" cy="14.4999" r="3" transform="rotate(-60 16.3301 14.4999)"/>
+</svg>

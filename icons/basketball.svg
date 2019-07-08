@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-labelledby="basketballIconTitle">
+    <title id="basketballIconTitle">Basketball</title>
+    <g stroke-linecap="butt">
+        <path d="M3.00476 7.71673C6.03818 6.81589 9.99791 7.74841 13.2448 10.4315C16.5425 13.1566 18.2053 16.9442 17.8244 20.1241"/>
+        <path d="M10.102 21.7996C9.33937 19.3589 10.0106 15.6137 12.0776 12.0335C14.1385 8.46402 17.0351 6.01413 19.5251 5.44463"/>
+        <path d="M11.4419 2C11.2615 3.94419 10.5157 6.2298 9.22541 8.46468C7.29158 11.8142 4.64753 14.1615 2.40135 14.7854"/>
+    </g>
+    <circle cx="12" cy="12" r="10"/>
+</svg>

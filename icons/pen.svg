@@ -1,0 +1,6 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-labelledby="penIconTitle">
+    <title id="penIconTitle">Pen</title>
+    <path d="M14 17.584C15.7659 16.8124 17 15.0503 17 13C17 9 12 3 12 3C12 3 7 9 7 13C7 15.0503 8.2341 16.8124 10 17.584V21H14V17.584Z"/>
+    <path d="M12 3V11"/>
+    <circle cx="12" cy="12" r="1"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-labelledby="presentationIconTitle">
+    <title id="presentationIconTitle">Presentation</title>
+    <rect x="6" y="8" width="12" height="7"/>
+    <path d="M6 5H12M18 5H12M12 5V4"/>
+    <path d="M6 18H8M18 18H16M12 18V21M12 18H8M12 18H16M8 18L6 21M16 18L18 21"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-labelledby="controlsAltIconTitle">
+    <title id="controlsAltIconTitle">Controls</title>
+    <circle cx="9" cy="6" r="2"/>
+    <path d="M4 6H7"/>
+    <path d="M11 6H20"/>
+    <circle cx="9" cy="18" r="2"/>
+    <path d="M4 18H7"/>
+    <path d="M11 18H20"/>
+    <circle cx="15" cy="12" r="2"/>
+    <path d="M4 12H13"/>
+    <path d="M17 12L20 12"/>
+</svg>

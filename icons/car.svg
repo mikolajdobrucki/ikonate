@@ -1,0 +1,6 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-labelledby="carIconTitle">
+    <title id="carIconTitle">Car</title>
+    <path d="M5 11L7 5H17L19 11M5 11H19M5 11V17M19 11V17M5 17V19H6V17M5 17H6M19 17V19H18V17M19 17H18M6 17H18"/>
+    <circle cx="8" cy="14" r="1"/>
+    <circle cx="16" cy="14" r="1"/>
+</svg>

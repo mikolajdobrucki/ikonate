@@ -1,0 +1,6 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-labelledby="markerIconTitle">
+    <title id="markerIconTitle">Marker</title>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z"/>
+    <path d="M6 20L8 13H16L18 20"/>
+    <path d="M9.5 13L11.0299 6.88057C11.2823 5.87062 12.7177 5.87062 12.9701 6.88057L14.5 13"/>
+</svg>
