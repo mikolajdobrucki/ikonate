@@ -28,7 +28,7 @@
   "dependencies": {
     "jsdom": "11.10.0",
     "pretty": "^2.0.0",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.5.0"
   },
   "devDependencies": {
     "npm-run-all": "^4.1.3"
