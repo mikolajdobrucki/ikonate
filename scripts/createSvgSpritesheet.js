@@ -1,5 +1,5 @@
 const fs = require('fs');
-const xmldom = require('xmldom');
+const xmldom = require('@xmldom/xmldom');
 
 const { DOMParser } = xmldom;
 const { XMLSerializer } = xmldom;
@@ -53,14 +53,14 @@ function createSymbolElement(options, name, DocumentTemplate) {
 
 	symbol.setAttribute('id', name.replace('.svg', ''));
 
-	Object.keys(svgDoc.childNodes).forEach((i) => {
-		const { tagName } = svgDoc.childNodes[i];
-		const isLabelTag = (tagName === 'title' || tagName === 'desc');
+  Object.keys(svgDoc.childNodes).forEach((i) => {
+    const { tagName } = svgDoc.childNodes[i];
+    const isLabelTag = (tagName === 'title' || tagName === 'desc');
 
-		if (tagName && !isLabelTag) {
-			symbol.appendChild(svgDoc.childNodes[i]);
-		}
-	});
+    if (tagName && !isLabelTag) {
+      symbol.appendChild(svgDoc.childNodes[i].cloneNode(true));
+    }
+  });
 
 	return symbol;
 }
